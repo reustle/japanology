@@ -15,6 +15,15 @@ $('table[data-season]').hide();
 $('table[data-season=1]').show();
 
 // Handle season tab click
+$('a[data-season]').click(function(){
+  
+  $('.nav-tabs .active').removeClass('active');
+  $(this).parents('li').addClass('active');
+  
+  $('table[data-season]').hide();
+  $('table[data-season=' + $(this).attr('data-season') + '']').show();
+  
+});
 
 // Handle watched toggle
 $('input[type=checkbox]').click(function(){
