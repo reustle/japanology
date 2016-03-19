@@ -13,6 +13,7 @@ $('tr[data-id]').each(function(){
 // Hide other season tables
 $('table[data-season]').hide();
 $('table[data-season=1]').show();
+$($('.navTabs li')[0]).addClass('active');
 
 // Handle season tab click
 $('a[data-season]').click(function(){
@@ -21,7 +22,7 @@ $('a[data-season]').click(function(){
   $(this).parents('li').addClass('active');
   
   $('table[data-season]').hide();
-  $('table[data-season=' + $(this).attr('data-season') + '']').show();
+  $('table[data-season=' + $(this).attr('data-season') + ']').show();
   
 });
 
