@@ -13,7 +13,7 @@ $('tr[data-id]').each(function(){
 // Hide other season tables
 $('table[data-season]').hide();
 $('table[data-season=1]').show();
-$($('.nav-link')[0]).addClass('active');
+$('.nav-link').first().addClass('active');
 
 // Handle season tab click
 $('a[data-season]').click(function(){
