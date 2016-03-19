@@ -3,7 +3,7 @@
         "id": 1,
         "episodes": [
             { "id": 1, "title": "Bento", "date": "2008-04-14", "vid": "pa6clxat_kE" },
-            { "id": 2, "title": "Miyazawa Kenji", "date": "2008-04-21" },
+            { "id": 2, "title": "Miyazawa Kenji", "date": "2008-04-21", "vid": "DhwIsqtEe20" },
             { "id": 3, "title": "Lacquerware", "date": "2008-04-28" },
             { "id": 4, "title": "Rakugo", "date": "2008-05-05" },
             { "id": 5, "title": "Tsukiji Market", "date": "2008-05-12" },
