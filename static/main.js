@@ -1,3 +1,12 @@
+// Update watched on startup
+$('tr[data-id]').each(function(){
+  var thisEp = $(this).attr('data-id');
+  if(thisEp && Session.get('watched' + thisEp)){
+    $(this).addClass('table-success');
+  }
+});
+
+// Handle watched toggle
 $('input[type=checkbox]').click(function(){
   var parentTr = $(this).parents('tr');
   var episode = parentTr.attr('data-id');
