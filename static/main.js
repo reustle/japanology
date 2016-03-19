@@ -1,3 +1,3 @@
 $('input[type=checkbox]').click(function(){
-  console.log($(this).parent('tr').attr('data-id'));
+  console.log($(this).parents('tr').attr('data-id'));
 });
