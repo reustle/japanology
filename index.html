@@ -35,8 +35,8 @@
                     {% for season in site.data.episodes %}
                         {% for episode in season.episodes %}
                             <tr>
-                                <td><input type='checkbox'/></td>
-                                <td>
+                                <td class='watched'><input type='checkbox'/></td>
+                                <td class='play-btn'>
                                     {% if episode.vid %}
                                         <a href='https://www.youtube.com/watch?v={{ episode.vid }}' target='_blank'>
                                             <i class='fa fa-play-circle-o'></i>
