@@ -53,20 +53,22 @@
                 <li class='nav-item'><a class='nav-link' href='#'>8</a></li>
             </ul>
             
-            <table class='table table-striped table-sm'>
-                <thead>
-                    <tr>
-                        <th></th>
-                        <th></th>
-                        <th>Title</th>
-                        <th>SE</th>
-                        <th>EP</th>
-                        <th width='150px'>Air Date</th>
-                    </tr>
-                </thead>
-                
-                <tbody>
-                    {% for season in site.data.episodes %}
+            {% for season in site.data.episodes %}
+            
+                <table class='table table-striped table-sm' data-table='season-{{ season.id }}'>
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th></th>
+                            <th>Title</th>
+                            <th>SE</th>
+                            <th>EP</th>
+                            <th width='150px'>Air Date</th>
+                        </tr>
+                    </thead>
+                    
+                    <tbody>
+                    
                         {% for episode in season.episodes %}
                             <tr data-id='{{ season.id }}-{{ episode.id }}'>
                                 <td class='watched'  data-toggle='tooltip' data-placement='left' title='Mark as Watched'>
@@ -85,9 +87,11 @@
                                 <td>{{ episode.date }}</td>
                             </tr>
                         {% endfor %}
-                    {% endfor %}
-                </tbody>
-            </table>
+                    
+                    </tbody>
+                </table>
+            
+            {% endfor %}
 
         </div>
 
