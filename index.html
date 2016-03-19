@@ -17,32 +17,32 @@
 	<body>
 		
 		<div class='container'>
+            
+            <table class='table table-striped table-sm'>
+                <thead>
+                    <tr>
+                        <th>Watched</th>
+                        <th>Title</th>
+                        <th>SE</th>
+                        <th>EP</th>
+                        <th>Air Date</th>
+                    </tr>
+                </thead>
                 
-                <table class='table table-striped table-sm'>
-                    <thead>
-                        <tr>
-                            <th></th>
-                            <th>Title</th>
-                            <th>SE</th>
-                            <th>EP</th>
-                            <th>Air Date</th>
-                        </tr>
-                    </thead>
-                    
-                    <tbody>
-                        {% for season in site.data.episodes %}
-                            {% for episode in season.episodes %}
-                                <tr>
-                                    <td><input type='checkbox'/></td>
-                                    <td>{{ episode.title }}</td>
-                                    <td>{{ season.id }}</td>
-                                    <td>{{ episode.id }}</td>
-                                    <td>{{ episode.date }}</td>
-                                </tr>
-                            {% endfor %}
+                <tbody>
+                    {% for season in site.data.episodes %}
+                        {% for episode in season.episodes %}
+                            <tr>
+                                <td><input type='checkbox'/></td>
+                                <td>{{ episode.title }}</td>
+                                <td>{{ season.id }}</td>
+                                <td>{{ episode.id }}</td>
+                                <td>{{ episode.date }}</td>
+                            </tr>
                         {% endfor %}
-                    </tbody>
-                </table>
+                    {% endfor %}
+                </tbody>
+            </table>
             
 		</div>
 		
