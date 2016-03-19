@@ -42,59 +42,57 @@
                 <h3>Japanology Episodes List</h3>
             </div>
             
-            <div class='tables-container'>
-                <ul class='nav nav-tabs'>
-                    <li class='nav-item'><a class='nav-link active collapse' href='#season-1' data-toggle='collapse' data-parent='#tables-container'>Season 1</a></li>
-                    <li class='nav-item'><a class='nav-link collapsed' href='#season-2' data-toggle='collapse' data-parent='#tables-container'>2</a></li>
-                    <li class='nav-item'><a class='nav-link collapsed' href='#season-3' data-toggle='collapse' data-parent='#tables-container'>3</a></li>
-                    <li class='nav-item'><a class='nav-link' href='#'>4</a></li>
-                    <li class='nav-item'><a class='nav-link' href='#'>5</a></li>
-                    <li class='nav-item'><a class='nav-link' href='#'>6</a></li>
-                    <li class='nav-item'><a class='nav-link' href='#'>7</a></li>
-                    <li class='nav-item'><a class='nav-link' href='#'>8</a></li>
-                </ul>
-                
-                {% for season in site.data.episodes %}
-                
-                    <table class='table table-striped table-sm panel-collapse collapse' id='season-{{ season.id }}' role='tabpanel'>
-                        <thead>
-                            <tr>
-                                <th></th>
-                                <th></th>
-                                <th>Title</th>
-                                <th>SE</th>
-                                <th>EP</th>
-                                <th width='150px'>Air Date</th>
-                            </tr>
-                        </thead>
-                        
-                        <tbody>
-                        
-                            {% for episode in season.episodes %}
-                                <tr data-id='{{ season.id }}-{{ episode.id }}'>
-                                    <td class='watched'  data-toggle='tooltip' data-placement='left' title='Mark as Watched'>
-                                        <input type='checkbox'/>
-                                    </td>
-                                    <td class='play-btn'>
-                                        {% if episode.vid %}
-                                            <a href='https://www.youtube.com/watch?v={{ episode.vid }}' target='_blank'>
-                                                <i class='fa fa-play-circle-o'></i>
-                                            </a>
-                                        {% endif %}
-                                    </td>
-                                    <td>{{ episode.title }}</td>
-                                    <td>{{ season.id }}</td>
-                                    <td>{{ episode.id }}</td>
-                                    <td>{{ episode.date }}</td>
-                                </tr>
-                            {% endfor %}
-                        
-                        </tbody>
-                    </table>
-                
-                {% endfor %}
+            <ul class='nav nav-tabs'>
+                <li class='nav-item'><a class='nav-link' data-season='1' href='#'>Season 1</a></li>
+                <li class='nav-item'><a class='nav-link' data-season='2' href='#'>2</a></li>
+                <li class='nav-item'><a class='nav-link' data-season='3' href='#'>3</a></li>
+                <li class='nav-item'><a class='nav-link' data-season='4' href='#'>4</a></li>
+                <li class='nav-item'><a class='nav-link' data-season='5' href='#'>5</a></li>
+                <li class='nav-item'><a class='nav-link' data-season='6' href='#'>6</a></li>
+                <li class='nav-item'><a class='nav-link' data-season='7' href='#'>7</a></li>
+                <li class='nav-item'><a class='nav-link' data-season='8' href='#'>8</a></li>
+            </ul>
             
-            </div>
+            {% for season in site.data.episodes %}
+            
+                <table class='table table-striped table-sm panel-collapse collapse' id='season-{{ season.id }}'>
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th></th>
+                            <th>Title</th>
+                            <th>SE</th>
+                            <th>EP</th>
+                            <th width='150px'>Air Date</th>
+                        </tr>
+                    </thead>
+                    
+                    <tbody>
+                    
+                        {% for episode in season.episodes %}
+                            <tr data-id='{{ season.id }}-{{ episode.id }}'>
+                                <td class='watched'  data-toggle='tooltip' data-placement='left' title='Mark as Watched'>
+                                    <input type='checkbox'/>
+                                </td>
+                                <td class='play-btn'>
+                                    {% if episode.vid %}
+                                        <a href='https://www.youtube.com/watch?v={{ episode.vid }}' target='_blank'>
+                                            <i class='fa fa-play-circle-o'></i>
+                                        </a>
+                                    {% endif %}
+                                </td>
+                                <td>{{ episode.title }}</td>
+                                <td>{{ season.id }}</td>
+                                <td>{{ episode.id }}</td>
+                                <td>{{ episode.date }}</td>
+                            </tr>
+                        {% endfor %}
+                    
+                    </tbody>
+                </table>
+            
+            {% endfor %}
+            
         </div>
 
         <script src='static/lib/jquery/jquery-1.11.1.min.js'></script>
