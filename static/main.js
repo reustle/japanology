@@ -24,4 +24,5 @@ $('input[type=checkbox]').click(function(){
     parentTr.removeClass('table-success');
   }
   
+  $(this).blur();
 });
