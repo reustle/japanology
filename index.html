@@ -15,10 +15,7 @@
         <link href='static/lib/bootstrap/css/bootstrap.min.css' rel='stylesheet'>
         
         <style type='text/css'>
-            tr.watched {
-                color: #ccc;
-            }
-            td.watched-chk {
+            td.watched {
                 width: 35px;
                 padding-top: 9px;
                 padding-left: 9px;
@@ -49,8 +46,8 @@
                 <tbody>
                     {% for season in site.data.episodes %}
                         {% for episode in season.episodes %}
-                            <tr>
-                                <td class='watched-chk'><input type='checkbox'/></td>
+                            <tr data-id='{{ season.id }}-{{ episode.id }}'>
+                                <td class='watched'><input type='checkbox'/></td>
                                 <td class='play-btn'>
                                     {% if episode.vid %}
                                         <a href='https://www.youtube.com/watch?v={{ episode.vid }}' target='_blank'>
