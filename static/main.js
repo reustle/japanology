@@ -1,7 +1,7 @@
 // Update watched on startup
 $('tr[data-id]').each(function(){
   var thisEp = $(this).attr('data-id');
-  if(thisEp && Session.get('watched' + thisEp)){
+  if(thisEp && Session.get('watched-' + thisEp)){
     $(this).addClass('table-success');
   }
 });
