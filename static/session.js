@@ -3,7 +3,7 @@ var Session = {
     return JSON.parse(localStorage.getItem(key));
   },
   set : function(key, val){
-    if(!val || _.isNaN(val)){
+    if(!val || isNaN(val)){
       localStorage.removeItem(key);
       return;
     }else if(typeof(val) == 'string' && val.length == 0){
