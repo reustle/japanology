@@ -1,3 +1,6 @@
+// Activate the tooltips
+$('[data-toggle="tooltip"]').tooltip();
+
 // Update watched on startup
 $('tr[data-id]').each(function(){
   var thisEp = $(this).attr('data-id');
