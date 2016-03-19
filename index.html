@@ -23,6 +23,7 @@
                 <thead>
                     <tr>
                         <th></th>
+                        <th></th>
                         <th>Title</th>
                         <th>SE</th>
                         <th>EP</th>
@@ -35,6 +36,13 @@
                         {% for episode in season.episodes %}
                             <tr>
                                 <td><input type='checkbox'/></td>
+                                <td>
+                                    {% if episode.vid %}
+                                        <a href='https://www.youtube.com/watch?v={{ episode.vid }}' target='_blank'>
+                                            <i class='fa-play-circle-o'></i>
+                                        </a>
+                                    {% endif %}
+                                </td>
                                 <td>{{ episode.title }}</td>
                                 <td>{{ season.id }}</td>
                                 <td>{{ episode.id }}</td>
@@ -44,12 +52,12 @@
                     {% endfor %}
                 </tbody>
             </table>
-            
-		</div>
-		
-		<script src='static/lib/jquery/jquery-1.11.1.min.js'></script>
-		<script src='static/lib/tether.min.js'></script>
-		<script src='static/lib/bootstrap/js/bootstrap.min.js'></script>
+
+        </div>
+
+        <script src='static/lib/jquery/jquery-1.11.1.min.js'></script>
+        <script src='static/lib/tether.min.js'></script>
+        <script src='static/lib/bootstrap/js/bootstrap.min.js'></script>
 		
 	</body>
 </html>
