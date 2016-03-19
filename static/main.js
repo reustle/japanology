@@ -10,6 +10,12 @@ $('tr[data-id]').each(function(){
   }
 });
 
+// Hide other season tables
+$('table[data-season]').hide();
+$('table[data-season=1]').show();
+
+// Handle season tab click
+
 // Handle watched toggle
 $('input[type=checkbox]').click(function(){
   var parentTr = $(this).parents('tr');
