@@ -16,7 +16,8 @@ $('table[data-season=1]').show();
 $('.nav-link').first().addClass('active');
 
 // Handle season tab click
-$('a[data-season]').click(function(){
+$('a[data-season]').click(function(e){
+  e.preventDefault();
   
   $('.nav-tabs .active').removeClass('active');
   $(this).addClass('active');
@@ -27,7 +28,8 @@ $('a[data-season]').click(function(){
 });
 
 // Handle watched toggle
-$('input[type=checkbox]').click(function(){
+$('input[type=checkbox]').click(function(e){
+  
   var parentTr = $(this).parents('tr');
   var episode = parentTr.attr('data-id');
   var watched = $(this).is(':checked');
