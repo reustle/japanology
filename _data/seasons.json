@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": 2008,
         "episodes": [
             { "id": 1, "title": "Bento", "date": "2008-04-14", "vid": "pa6clxat_kE" },
             { "id": 2, "title": "Miyazawa Kenji", "date": "2008-04-21", "vid": "DhwIsqtEe20" },
@@ -40,7 +40,7 @@
             { "id": 33, "title": "Miso", "date": "2008-12-15" }
         ]
     },{
-        "id": 2,
+        "id": 2009,
         "episodes": [
             { "id": 1, "title": "Nishijin-ori", "date": "2009-01-19", "vid": "8MBm2jJ01GM" },
             { "id": 2, "title": "Kyoto Lacquerware", "date": "2009-01-26" },
@@ -89,7 +89,7 @@
             { "id": 41, "title": "Sword", "date": "2009-12-18", "vid": "t6SMRaKMtFY" }
         ]
     },{
-        "id": 3,
+        "id": 2010,
         "episodes": [
             { "id": 1, "title": "Sentou", "date": "2010-01-08" },
             { "id": 2, "title": "Karuta", "date": "2010-01-15" },
@@ -140,7 +140,7 @@
             { "id": 43, "title": "Firefighting", "date": "2010-12-16" }
         ]
     },{
-        "id": 4,
+        "id": 2011,
         "episodes": [
             { "id": 1, "title": "Mochi Rice Cake", "date": "2011-01-13" },
             { "id": 2, "title": "Watches and Clocks", "date": "2011-01-20" },
@@ -191,7 +191,7 @@
             { "id": 43, "title": "Chickens and Eggs", "date": "2011-12-22" }
         ]
     },{
-        "id": 5,
+        "id": 2012,
         "episodes": [
             { "id": 1, "title": "Ekiden", "date": "2012-01-12" },
             { "id": 2, "title": "Batteries", "date": "2012-01-19" },
@@ -243,7 +243,7 @@
             { "id": 42, "title": "Mapping Kyoto Streets", "date": "2012-06-27" }
         ]
     },{
-        "id": 6,
+        "id": 2013,
         "episodes": [
             { "id": 1, "title": "Sumo", "date": "2013-01-10" },
             { "id": 2, "title": "Bathroom Scales", "date": "2013-01-17" },
@@ -291,7 +291,7 @@
             { "id": 40, "title": "Pets", "date": "2013-12-19" }
         ]
     },{
-        "id": 7,
+        "id": 2014,
         "episodes": [
             { "id": 1, "title": "Persimmons", "date": "2014-01-09" },
             { "id": 2, "title": "Nighttime Scenery", "date": "2014-01-16" },
@@ -303,46 +303,43 @@
             { "id": 8, "title": "Railways", "date": "2014-03-06" },
             { "id": 9, "title": "Pianos", "date": "2014-03-13" },
             
-            { "id": 10, "title": "Squid", "date": "2014-03-20" }
+            { "id": 10, "title": "Squid", "date": "2014-03-20" },
+            { "id": 11, "title": "Bathhouses", "date": "2014-04-03" },
+            { "id": 12, "title": "Ramen", "date": "2014-04-10" },
+            { "id": 13, "title": "Mt. Fuji", "date": "2014-04-17" },
+            { "id": 14, "title": "Shogi", "date": "2014-04-24" },
+            { "id": 15, "title": "Cherry Trees", "date": "2014-05-01" },
+            { "id": 16, "title": "Akihabara", "date": "2014-05-08" },
+            { "id": 17, "title": "Wagashi", "date": "2014-05-15" },
+            { "id": 18, "title": "Ninja", "date": "2014-05-22" },
+            { "id": 19, "title": "Rice", "date": "2014-05-29" },
+            
+            { "id": 20, "title": "Castles", "date": "2014-06-05" },
+            { "id": 21, "title": "Japanophiles: Elizabeth Suzuki", "date": "2014-07-03" },
+            { "id": 22, "title": "Japanophiles: Everett Kennedy Brown", "date": "2014-07-10" },
+            { "id": 23, "title": "Japanophiles: Carolin Eckhardt", "date": "2014-07-17" },
+            { "id": 24, "title": "Karaoke Boxes", "date": "2014-08-07" },
+            { "id": 25, "title": "Bento", "date": "2014-08-14" },
+            { "id": 26, "title": "Bamboo", "date": "2014-08-21" },
+            { "id": 27, "title": "Taiko Drums", "date": "2014-09-04" },
+            { "id": 28, "title": "Tsukiji Market", "date": "2014-09-11" },
+            { "id": 29, "title": "Festivals", "date": "2014-09-18" },
+            
+            { "id": 30, "title": "Japanese Gardens", "date": "2014-09-25" },
+            { "id": 31, "title": "Origami", "date": "2014-10-02" },
+            { "id": 32, "title": "Buddhist Statues", "date": "2014-10-09" },
+            { "id": 33, "title": "Yokai", "date": "2014-10-16" },
+            { "id": 34, "title": "Shinkansen", "date": "2014-10-23", "ytid": "tHCl8z47bL0" },
+            { "id": 35, "title": "Lessons for Life", "date": "2014-11-06" },
+            { "id": 36, "title": "Robots", "date": "2014-11-13" },
+            { "id": 37, "title": "Sports Days", "date": "2014-11-20" },
+            { "id": 38, "title": "Bonsai", "date": "2014-12-04" },
+            { "id": 39, "title": "Sushi", "date": "2014-12-11" },
+            
+            { "id": 40, "title": "Geisha", "date": "2014-12-18" }
         ]
     },{
-        "id": "2014",
-        "episodes": [
-            { "id": 1, "title": "Bathhouses", "date": "2014-04-03" },
-            { "id": 2, "title": "Ramen", "date": "2014-04-10" },
-            { "id": 3, "title": "Mt. Fuji", "date": "2014-04-17" },
-            { "id": 4, "title": "Shogi", "date": "2014-04-24" },
-            { "id": 5, "title": "Cherry Trees", "date": "2014-05-01" },
-            { "id": 6, "title": "Akihabara", "date": "2014-05-08" },
-            { "id": 7, "title": "Wagashi", "date": "2014-05-15" },
-            { "id": 8, "title": "Ninja", "date": "2014-05-22" },
-            { "id": 9, "title": "Rice", "date": "2014-05-29" },
-            { "id": 10, "title": "Castles", "date": "2014-06-05" },
-            { "id": 11, "title": "Japanophiles: Elizabeth Suzuki", "date": "2014-07-03" },
-            { "id": 12, "title": "Japanophiles: Everett Kennedy Brown", "date": "2014-07-10" },
-            { "id": 13, "title": "Japanophiles: Carolin Eckhardt", "date": "2014-07-17" },
-            { "id": 14, "title": "Karaoke Boxes", "date": "2014-08-07" },
-            { "id": 15, "title": "Bento", "date": "2014-08-14" },
-            { "id": 16, "title": "Bamboo", "date": "2014-08-21" },
-            { "id": 17, "title": "Taiko Drums", "date": "2014-09-04" },
-            { "id": 18, "title": "Tsukiji Market", "date": "2014-09-11" },
-            { "id": 19, "title": "Festivals", "date": "2014-09-18" },
-            
-            { "id": 20, "title": "Japanese Gardens", "date": "2014-09-25" },
-            { "id": 21, "title": "Origami", "date": "2014-10-02" },
-            { "id": 22, "title": "Buddhist Statues", "date": "2014-10-09" },
-            { "id": 23, "title": "Yokai", "date": "2014-10-16" },
-            { "id": 24, "title": "Shinkansen", "date": "2014-10-23", "ytid": "tHCl8z47bL0" },
-            { "id": 25, "title": "Lessons for Life", "date": "2014-11-06" },
-            { "id": 26, "title": "Robots", "date": "2014-11-13" },
-            { "id": 27, "title": "Sports Days", "date": "2014-11-20" },
-            { "id": 28, "title": "Bonsai", "date": "2014-12-04" },
-            { "id": 29, "title": "Sushi", "date": "2014-12-11" },
-            
-            { "id": 30, "title": "Geisha", "date": "2014-12-18" }
-        ]
-    },{
-        "id": "2015",
+        "id": 2015,
         "episodes": [
             { "id": 1, "title": "Japanophiles: Bartholomeus Greb", "date": "2015-01-08" },
             { "id": 2, "title": "Japanophiles: Ivan Vartanian", "date": "2015-01-15" },
@@ -384,7 +381,7 @@
             { "id": 35, "title": "Mt. Takao", "date": "2015-12-17" }
         ]
     },{
-        "id": "2016",
+        "id": 2016,
         "episodes": [
             { "id": 1, "title": "Japanophiles: Maud Archambault", "date": "2016-01-07" },
             { "id": 2, "title": "Silk", "date": "2016-01-14" },
