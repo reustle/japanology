@@ -80,12 +80,12 @@
                             
                                 {% for episode in season.episodes %}
                                     <tr data-id='{{ season.id }}-{{ episode.id }}'>
-                                        <td class='watched'  data-toggle='tooltip' data-placement='left' title='Mark as Watched'>
+                                        <td class='watched' data-toggle='tooltip' data-placement='left' title='Mark as Watched'>
                                             <input type='checkbox'/>
                                         </td>
                                         <td class='play-btn'>
                                             {% if episode.vid %}
-                                                <a href='https://www.youtube.com/watch?v={{ episode.vid }}' target='_blank'>
+                                                <a href='https://www.youtube.com/watch?v={{ episode.vid }}' target='_blank' data-toggle='tooltip' data-placement='left' title='Watch Now'>
                                                     <i class='fa fa-play-circle'></i>
                                                 </a>
                                             {% endif %}
