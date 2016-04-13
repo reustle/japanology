@@ -32,6 +32,13 @@
             .nav-tabs {
             	border-bottom: 0px solid #fff;
             }
+            
+            .footer-text {
+                margin: 30px 0px 40px 0px;
+                text-align: center;
+                font-size: 12px;
+                color: #888;
+            }
         </style>
     </head>
     <body>
@@ -45,15 +52,15 @@
                     </div>
                     
                     <ul class='nav nav-tabs'>
-                        <li class='nav-item'><a class='nav-link' data-season='2008' href='#'>2008</a></li>
-                        <li class='nav-item'><a class='nav-link' data-season='2009' href='#'>2009</a></li>
-                        <li class='nav-item'><a class='nav-link' data-season='2010' href='#'>2010</a></li>
-                        <li class='nav-item'><a class='nav-link' data-season='2011' href='#'>2011</a></li>
-                        <li class='nav-item'><a class='nav-link' data-season='2012' href='#'>2012</a></li>
-                        <li class='nav-item'><a class='nav-link' data-season='2013' href='#'>2013</a></li>
-                        <li class='nav-item'><a class='nav-link' data-season='2014' href='#'>2014</a></li>
-                        <li class='nav-item'><a class='nav-link' data-season='2015' href='#'>2015</a></li>
-                        <li class='nav-item'><a class='nav-link' data-season='2016' href='#'>2016</a></li>
+                        <li class='nav-item'><a class='nav-link' data-season='2008' href='#' title='Season 1'>2008</a></li>
+                        <li class='nav-item'><a class='nav-link' data-season='2009' href='#' title='Season 2'>2009</a></li>
+                        <li class='nav-item'><a class='nav-link' data-season='2010' href='#' title='Season 3'>2010</a></li>
+                        <li class='nav-item'><a class='nav-link' data-season='2011' href='#' title='Season 4'>2011</a></li>
+                        <li class='nav-item'><a class='nav-link' data-season='2012' href='#' title='Season 5'>2012</a></li>
+                        <li class='nav-item'><a class='nav-link' data-season='2013' href='#' title='Season 6'>2013</a></li>
+                        <li class='nav-item'><a class='nav-link' data-season='2014' href='#' title='Season 7'>2014</a></li>
+                        <li class='nav-item'><a class='nav-link' data-season='2015' href='#' title='Japanology Plus'>2015</a></li>
+                        <li class='nav-item'><a class='nav-link' data-season='2016' href='#' title='Japanology Plus'>2016</a></li>
                     </ul>
                     
                     {% for season in site.data.seasons %}
@@ -94,6 +101,12 @@
                     
                     {% endfor %}
                     
+                </div>
+            </div>
+            <div class='row'>
+                <div class='col-md-12 footer-text'>
+                    Built by <a href='http://reustle.org'>Shane Reustle</a> &minus;
+                    All content copyright &copy; NHK (Japan Broadcasting Corporation)
                 </div>
             </div>
         </div>
