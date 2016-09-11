@@ -5,4 +5,3 @@ If you would like to report a broken video or add missing video links, leave a c
 
 ### Contributing Code
 If you would like to help improve the website, check out the list of feature requests on [this page](https://github.com/reustle/japanology/issues).
-
