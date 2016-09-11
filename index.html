@@ -89,12 +89,18 @@
                                         </td>
                                         <td class='play-btn'>
                                             {% if episode.vid %}
-                                                <a href='https://www.youtube.com/watch?v={{ episode.vid }}' target='_blank' data-toggle='tooltip' data-placement='left' title='Watch Now'>
+                                                <a href='{{ site.yt }}{{ episode.vid }}' target='_blank' data-toggle='tooltip' data-placement='left' title='Watch Now'>
                                                     <i class='fa fa-play-circle'></i>
                                                 </a>
                                             {% endif %}
                                         </td>
-                                        <td>{{ episode.title }}</td>
+                                        <td>
+                                            {% if episode.vid %}
+                                                <a href='{{ site.yt }}{{ episode.vid }}' target='_blank'>{{ episode.title }}</a>
+                                            {% else %}
+                                                {{ episode.title }}
+                                            {% endif %}
+                                        </td>
                                         <td>{{ episode.id }}</td>
                                         <td>{{ episode.date }}</td>
                                     </tr>
