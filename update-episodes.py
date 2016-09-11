@@ -51,6 +51,8 @@ for season in episodes.keys():
         'episodes': episodes[season],
     })
 
-# Output the Episodes Dictionary as JSON
-print(json.dumps(seasons_coll))
+# Output the Episodes Dictionary as JSON file
+handle = open('_data/episodes.json', 'w')
+handle.write(json.dumps(seasons_coll, indent=2))
+handle.close()
 
