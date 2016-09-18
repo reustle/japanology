@@ -30,6 +30,7 @@
             }
             .reair-icon {
                 margin-top: 4px;
+                color: #ccc;
             }
             
             .nav-tabs {
@@ -107,7 +108,7 @@
                                         <td>
                                             {% if episode.reair %}
                                                 <span data-toggle='tooltip' data-placement='left' title='Originally aired {{ episode.reair }}'>
-                                                    <i class='fa fa-refresh text-muted reair-icon'></i>
+                                                    <i class='fa fa-refresh reair-icon'></i>
                                                 </span>
                                             {% else %}
                                                 {{ episode.id }}
