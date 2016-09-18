@@ -28,6 +28,9 @@
                 padding-top: 7px;
                 font-size: 18px;
             }
+            .reair-icon {
+                margin-top: 4px;
+            }
             
             .nav-tabs {
             	border-bottom: 0px solid #fff;
@@ -101,7 +104,15 @@
                                                 {{ episode.title }}
                                             {% endif %}
                                         </td>
-                                        <td>{{ episode.id }}</td>
+                                        <td>
+                                            {% if episode.reair %}
+                                                <span data-toggle='tooltip' data-placement='left' title='Originally aired {{ episode.reair }}'>
+                                                    <i class='fa fa-refresh text-muted reair-icon'></i>
+                                                </span>
+                                            {% else %}
+                                                {{ episode.id }}
+                                            {% endif %}
+                                        </td>
                                         <td>{{ episode.date }}</td>
                                     </tr>
                                 {% endfor %}

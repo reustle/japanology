@@ -24,7 +24,7 @@
       }, 
       {
         "date": "2016-02-04", 
-        "reair": "2015.26", 
+        "reair": "2015-10-01", 
         "id": 4, 
         "vid": null, 
         "title": "Onsen"
@@ -38,7 +38,7 @@
       }, 
       {
         "date": "2016-02-18", 
-        "reair": "2015.29", 
+        "reair": "2015-10-22", 
         "id": 6, 
         "vid": null, 
         "title": "Wrapping and Packaging"
@@ -59,7 +59,7 @@
       }, 
       {
         "date": "2016-03-10", 
-        "reair": "2015.8", 
+        "reair": "2015-04-16", 
         "id": 9, 
         "vid": null, 
         "title": "A Season of Change"
@@ -73,14 +73,14 @@
       }, 
       {
         "date": "2016-03-24", 
-        "reair": "2015.31", 
+        "reair": "2015-11-19", 
         "id": 11, 
         "vid": null, 
         "title": "Japanophiles: Adam Zgola"
       }, 
       {
         "date": "2016-03-31", 
-        "reair": "2015.34", 
+        "reair": "2015-12-10", 
         "id": 12, 
         "vid": "h-vbm9ShZWE", 
         "title": "Tidying Up"
@@ -108,7 +108,7 @@
       }, 
       {
         "date": "2016-04-28", 
-        "reair": "2015.9", 
+        "reair": "2015-04-23", 
         "id": 16, 
         "vid": null, 
         "title": "Waste and Recycling"
@@ -136,7 +136,7 @@
       }, 
       {
         "date": "2016-05-26", 
-        "reair": "2014.3", 
+        "reair": "2014-01-23", 
         "id": 20, 
         "vid": null, 
         "title": "Ise Jingu"
@@ -150,7 +150,7 @@
       }, 
       {
         "date": "2016-06-09", 
-        "reair": "2016.7", 
+        "reair": "2016-02-25", 
         "id": 22, 
         "vid": null, 
         "title": "Japanophiles: Jorge Cabeza Fernandez"
@@ -178,7 +178,7 @@
       }, 
       {
         "date": "2016-07-07", 
-        "reair": "2012.19", 
+        "reair": "2012-05-24", 
         "id": 26, 
         "vid": null, 
         "title": "Kimonos"
@@ -234,7 +234,7 @@
       }, 
       {
         "date": "2016-09-29", 
-        "reair": "2010.42", 
+        "reair": "2010-12-09", 
         "id": 34, 
         "vid": null, 
         "title": "Volcanos"
@@ -2215,7 +2215,7 @@
       }, 
       {
         "date": "2014-11-13", 
-        "reair": "2010.15", 
+        "reair": "2010-04-23", 
         "id": 36, 
         "vid": "Om1cXX08pGY", 
         "title": "Robots"
@@ -2229,14 +2229,14 @@
       }, 
       {
         "date": "2014-12-04", 
-        "reair": "2009.5", 
+        "reair": "2009-02-16", 
         "id": 38, 
         "vid": "aVsb6RwsMTg", 
         "title": "Bonsai"
       }, 
       {
         "date": "2014-12-11", 
-        "reair": "2008.25", 
+        "reair": "2008-10-19", 
         "id": 39, 
         "vid": "VwkLdQuT7q0", 
         "title": "Sushi"
@@ -2332,14 +2332,14 @@
       }, 
       {
         "date": "2015-05-14", 
-        "reair": "2010.30", 
+        "reair": "2010-09-03", 
         "id": 12, 
         "vid": null, 
         "title": "Dams"
       }, 
       {
         "date": "2015-05-28", 
-        "reair": "2010.18", 
+        "reair": "2010-05-21", 
         "id": 13, 
         "vid": "jvmGLXLf6B8", 
         "title": "Izakaya"
