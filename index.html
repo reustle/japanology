@@ -87,35 +87,31 @@
                             <tbody>
                             
                                 {% for episode in season.episodes %}
-                                    <tr data-id='{{ season.id }}-{{ episode.id }}'>
-                                        <td class='watched' data-toggle='tooltip' data-placement='left' title='Mark as Watched'>
-                                            <input type='checkbox'/>
-                                        </td>
-                                        <td class='play-btn'>
-                                            {% if episode.vid %}
-                                                <a href='{{ site.yt }}{{ episode.vid }}' target='_blank' data-toggle='tooltip' data-placement='left' title='Watch Now'>
-                                                    <i class='fa fa-play-circle'></i>
-                                                </a>
-                                            {% endif %}
-                                        </td>
-                                        <td>
-                                            {% if episode.vid %}
-                                                <a href='{{ site.yt }}{{ episode.vid }}' target='_blank'>{{ episode.title }}</a>
-                                            {% else %}
-                                                {{ episode.title }}
-                                            {% endif %}
-                                        </td>
-                                        <td>
-                                            {% if episode.reair %}
-                                                <span data-toggle='tooltip' data-placement='left' title='Originally aired {{ episode.reair }}'>
-                                                    <i class='fa fa-refresh reair-icon'></i>
-                                                </span>
-                                            {% else %}
+                                    {% unless episode.reair %}
+                                        <tr data-id='{{ season.id }}-{{ episode.id }}'>
+                                            <td class='watched' data-toggle='tooltip' data-placement='left' title='Mark as Watched'>
+                                                <input type='checkbox'/>
+                                            </td>
+                                            <td class='play-btn'>
+                                                {% if episode.vid %}
+                                                    <a href='{{ site.yt }}{{ episode.vid }}' target='_blank' data-toggle='tooltip' data-placement='left' title='Watch Now'>
+                                                        <i class='fa fa-play-circle'></i>
+                                                    </a>
+                                                {% endif %}
+                                            </td>
+                                            <td>
+                                                {% if episode.vid %}
+                                                    <a href='{{ site.yt }}{{ episode.vid }}' target='_blank'>{{ episode.title }}</a>
+                                                {% else %}
+                                                    {{ episode.title }}
+                                                {% endif %}
+                                            </td>
+                                            <td>
                                                 {{ episode.id }}
-                                            {% endif %}
-                                        </td>
-                                        <td>{{ episode.date }}</td>
-                                    </tr>
+                                            </td>
+                                            <td>{{ episode.date }}</td>
+                                        </tr>
+                                    {% endunless %}
                                 {% endfor %}
                             
                             </tbody>
