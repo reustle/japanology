@@ -76,11 +76,11 @@
                         <table class='table table-striped table-sm' data-season='{{ season.id }}'>
                             <thead>
                                 <tr>
-                                    <th class='hidden-xs-up'></th>
-                                    <th class='hidden-xs-up'></th>
+                                    <th class='hidden-xs-down'></th>
+                                    <th class='hidden-xs-down'></th>
                                     <th>Title</th>
-                                    <th width='100px' class='hidden-xs-up'>Episode</th>
-                                    <th width='150px' class='hidden-xs-up'>Air Date</th>
+                                    <th width='100px' class='hidden-xs-down'>Episode</th>
+                                    <th width='150px' class='hidden-xs-down'>Air Date</th>
                                 </tr>
                             </thead>
                             
@@ -89,10 +89,10 @@
                                 {% for episode in season.episodes %}
                                     {% unless episode.reair %}
                                         <tr data-id='{{ season.id }}-{{ episode.id }}'>
-                                            <td class='watched hidden-xs-up' data-toggle='tooltip' data-placement='left' title='Mark as Watched'>
+                                            <td class='watched hidden-xs-down' data-toggle='tooltip' data-placement='left' title='Mark as Watched'>
                                                 <input type='checkbox'/>
                                             </td>
-                                            <td class='play-btn hidden-xs-up'>
+                                            <td class='play-btn hidden-xs-down'>
                                                 {% if episode.vid %}
                                                     <a href='{{ site.yt }}{{ episode.vid }}' target='_blank' data-toggle='tooltip' data-placement='left' title='Watch Now'>
                                                         <i class='fa fa-play-circle'></i>
@@ -106,10 +106,10 @@
                                                     {{ episode.title }}
                                                 {% endif %}
                                             </td>
-                                            <td class='hidden-xs-up'>
+                                            <td class='hidden-xs-down'>
                                                 {{ episode.id }}
                                             </td>
-                                            <td class='hidden-xs-up'>
+                                            <td class='hidden-xs-down'>
                                                 {{ episode.date }}
                                             </td>
                                         </tr>
