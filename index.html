@@ -76,11 +76,11 @@
                         <table class='table table-striped table-sm' data-season='{{ season.id }}'>
                             <thead>
                                 <tr>
-                                    <th></th>
-                                    <th></th>
+                                    <th class='hidden-xs-up'></th>
+                                    <th class='hidden-xs-up'></th>
                                     <th>Title</th>
-                                    <th width='100px'>Episode</th>
-                                    <th width='150px'>Air Date</th>
+                                    <th width='100px' class='hidden-xs-up'>Episode</th>
+                                    <th width='150px' class='hidden-xs-up'>Air Date</th>
                                 </tr>
                             </thead>
                             
@@ -89,10 +89,10 @@
                                 {% for episode in season.episodes %}
                                     {% unless episode.reair %}
                                         <tr data-id='{{ season.id }}-{{ episode.id }}'>
-                                            <td class='watched' data-toggle='tooltip' data-placement='left' title='Mark as Watched'>
+                                            <td class='watched hidden-xs-up' data-toggle='tooltip' data-placement='left' title='Mark as Watched'>
                                                 <input type='checkbox'/>
                                             </td>
-                                            <td class='play-btn'>
+                                            <td class='play-btn hidden-xs-up'>
                                                 {% if episode.vid %}
                                                     <a href='{{ site.yt }}{{ episode.vid }}' target='_blank' data-toggle='tooltip' data-placement='left' title='Watch Now'>
                                                         <i class='fa fa-play-circle'></i>
@@ -106,10 +106,12 @@
                                                     {{ episode.title }}
                                                 {% endif %}
                                             </td>
-                                            <td>
+                                            <td class='hidden-xs-up'>
                                                 {{ episode.id }}
                                             </td>
-                                            <td>{{ episode.date }}</td>
+                                            <td class='hidden-xs-up'>
+                                                {{ episode.date }}
+                                            </td>
                                         </tr>
                                     {% endunless %}
                                 {% endfor %}
