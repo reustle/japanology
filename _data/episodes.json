@@ -234,10 +234,52 @@
       }, 
       {
         "date": "2016-09-29", 
-        "reair": "2010-12-09", 
+        "reair": null, 
         "id": 34, 
         "vid": null, 
         "title": "Volcanos"
+      }, 
+      {
+        "date": "2016-10-13", 
+        "reair": null, 
+        "id": 35, 
+        "vid": null, 
+        "title": "Smells"
+      }, 
+      {
+        "date": "2016-10-20", 
+        "reair": null, 
+        "id": 36, 
+        "vid": null, 
+        "title": "Paper"
+      }, 
+      {
+        "date": "2016-10-27", 
+        "reair": null, 
+        "id": 37, 
+        "vid": null, 
+        "title": "Okinawan Dance"
+      }, 
+      {
+        "date": "2016-11-03", 
+        "reair": null, 
+        "id": 38, 
+        "vid": null, 
+        "title": "Japanaophiles: Paul Lorimer"
+      }, 
+      {
+        "date": "2016-11-10", 
+        "reair": "2016-04-14", 
+        "id": 39, 
+        "vid": null, 
+        "title": "Quest for Perfect Skin"
+      }, 
+      {
+        "date": "2016-12-01", 
+        "reair": null, 
+        "id": 40, 
+        "vid": null, 
+        "title": "Katsuobushi"
       }
     ], 
     "id": 2016
