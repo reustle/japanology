@@ -8,7 +8,7 @@ If you would like to report a broken video or add missing video links, leave a c
 If you would like to help improve the website, check out the list of feature requests on [this page](https://github.com/reustle/japanology/issues).
 
 ### Tasks
-- Remove bootstrap cdn font-awesome dependcy
+- Remove bootstrap cdn font-awesome dependency
 - Remove tether dependcy
 - Upgrade bootstrap
 
