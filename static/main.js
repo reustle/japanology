@@ -45,3 +45,42 @@ $('input[type=checkbox]').click(function(e){
     $(this).blur();
 });
 
+
+jQuery(document).ready(function($){
+    $('#search_query').keyup(function(){
+        var _query = $(this).val();
+        doQuery(_query);
+    });
+
+    $('#search_clear').click(function(){
+        $('#search_query').val('');
+        doQuery('');
+    })
+
+    function doQuery(_query){
+        if(_query == ''){
+            $('#search_clear').hide();
+            $('.episode-session').show();
+            $('.nav-link').show();
+        }
+        else{
+
+            $('#search_clear').show();
+            $('.episode-session').hide();
+            $('.nav-link').hide();
+
+            $('tr.episode-session').each(function(){
+                var _episode = $(this).attr('data-episode');
+
+                if (~_episode.indexOf(_query)){
+                    $(this).show();
+
+                    var _active = $(this).attr('data-season');
+                    $('a.nav-link[data-season="'+_active+'"]').show();
+                }
+            });
+
+            //$('.nav-link.active').show();
+        }
+    }
+});
