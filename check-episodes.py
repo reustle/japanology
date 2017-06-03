@@ -29,7 +29,7 @@ for season in seasons:
         if 'Not Found' in req.content:
             isValid = False
         
-            output = '{0} ({1})'.format(episode['title'], episode['date'])
+            output = '{0}\t{1}\t{2}'.format(episode['title'], episode['date'], episode['vid'])
             print(output)
         
         sleep(1)
