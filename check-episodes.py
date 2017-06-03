@@ -11,6 +11,7 @@ handle.close()
 
 seasons = json.loads(contents)
 
+print('# These episodes are broken:')
 for season in seasons:
     for episode in season['episodes']:
         
