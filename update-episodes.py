@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import requests, csv, pprint, json
 
 GOOGLE_SHEETS = 'https://docs.google.com/spreadsheets/d/{0}/export?format=csv'
