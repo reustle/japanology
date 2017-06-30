@@ -369,6 +369,97 @@
         "id": 8, 
         "vid": null, 
         "title": "Japanophiles: Randy Channell Soei"
+      }, 
+      {
+        "date": "2017-03-30", 
+        "reair": null, 
+        "id": 9, 
+        "vid": null, 
+        "title": "Japanophiles: Zoe Vincent"
+      }, 
+      {
+        "date": "2017-04-04", 
+        "reair": null, 
+        "id": 10, 
+        "vid": null, 
+        "title": "Buddhist Altars"
+      }, 
+      {
+        "date": "2017-04-11", 
+        "reair": null, 
+        "id": 11, 
+        "vid": null, 
+        "title": "Driving Schools"
+      }, 
+      {
+        "date": "2017-04-18", 
+        "reair": null, 
+        "id": 12, 
+        "vid": null, 
+        "title": "Curry"
+      }, 
+      {
+        "date": "2017-04-25", 
+        "reair": "yes", 
+        "id": 13, 
+        "vid": null, 
+        "title": "Moving Services"
+      }, 
+      {
+        "date": "2017-05-02", 
+        "reair": null, 
+        "id": 14, 
+        "vid": null, 
+        "title": "Cafes"
+      }, 
+      {
+        "date": "2017-05-09", 
+        "reair": "yes", 
+        "id": 15, 
+        "vid": null, 
+        "title": "Family Crests"
+      }, 
+      {
+        "date": "2017-05-16", 
+        "reair": "yes", 
+        "id": 16, 
+        "vid": null, 
+        "title": "Breakfast"
+      }, 
+      {
+        "date": "2017-05-23", 
+        "reair": null, 
+        "id": 17, 
+        "vid": null, 
+        "title": "Japanophiles: Yoram Ofer"
+      }, 
+      {
+        "date": "2017-05-30", 
+        "reair": "yes", 
+        "id": 18, 
+        "vid": null, 
+        "title": "Bladed Tools"
+      }, 
+      {
+        "date": "2017-06-06", 
+        "reair": null, 
+        "id": 19, 
+        "vid": null, 
+        "title": "School Lunch"
+      }, 
+      {
+        "date": "2017-06-13", 
+        "reair": "yes", 
+        "id": 20, 
+        "vid": null, 
+        "title": "Ekiben"
+      }, 
+      {
+        "date": "2017-06-20", 
+        "reair": null, 
+        "id": 21, 
+        "vid": null, 
+        "title": "Capsule Toys"
       }
     ], 
     "id": 2017
@@ -435,14 +526,14 @@
         "date": "2008-06-09", 
         "reair": null, 
         "id": 9, 
-        "vid": null, 
+        "vid": "8z9WEc-9Qi0", 
         "title": "Dagashiya (candy shops)"
       }, 
       {
         "date": "2008-06-16", 
         "reair": null, 
         "id": 10, 
-        "vid": "L_fvBKu_83Q", 
+        "vid": null, 
         "title": "Nihon Buyo"
       }, 
       {
