@@ -18,15 +18,22 @@
             .header {
                 margin: 20px 0px;
             }
+            .table th, .table td {
+                vertical-align: middle;
+            }
             td.watched {
                 width: 35px;
                 padding-top: 9px;
                 padding-left: 9px;
             }
-            td.play-btn {
-                width: 32px;
-                padding-top: 7px;
-                font-size: 18px;
+            td.thumbnail {
+                width: 129.6px;
+            }
+            td.thumbnail div {
+                width: 120px;
+                height: 67px;
+                background-size: cover;
+                background-position: center;
             }
             .reair-icon {
                 margin-top: 4px;
@@ -34,7 +41,7 @@
             }
             
             .nav-tabs {
-            	border-bottom: 0px solid #fff;
+                border-bottom: 0px solid #fff;
             }
             
             .footer-text {
@@ -93,11 +100,13 @@
                                             <td class='watched hidden-xs-down' data-toggle='tooltip' data-placement='left' title='Mark as Watched'>
                                                 <input type='checkbox'/>
                                             </td>
-                                            <td class='play-btn hidden-xs-down'>
+                                            <td class='thumbnail hidden-xs-down'>
                                                 {% if episode.vid %}
                                                     <a href='{{ site.yt }}{{ episode.vid }}' target='_blank' data-toggle='tooltip' data-placement='left' title='Watch Now'>
-                                                        <i class='fa fa-play-circle'></i>
+                                                        <div style='background-image:url({{ site.ytimg }}{{ episode.vid }}{{ site.thumbnail }});'></div>
                                                     </a>
+                                                {% else %}
+                                                    <div style='background-image:url({{ site.ytimg }}{{ episode.vid }}{{ site.thumbnail }});'></div>
                                                 {% endif %}
                                             </td>
                                             <td>
@@ -135,10 +144,10 @@
         <script src='static/lib/jquery/jquery-1.11.1.min.js'></script>
         <script src='static/lib/tether.min.js'></script>
         <script src='static/lib/bootstrap/js/bootstrap.min.js'></script>
-        
+
         <script src='static/session.js'></script>
         <script src='static/main.js'></script>
-        
+
         <script>
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -148,7 +157,7 @@
             ga('create', 'UA-2580539-33', 'auto');
             ga('send', 'pageview');
         </script>
-		
-	</body>
+
+    </body>
 </html>
 
