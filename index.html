@@ -43,6 +43,20 @@
                 font-size: 12px;
                 color: #888;
             }
+
+            #search_clear {
+                position: absolute;
+                right: 65px;
+                top: 0;
+                bottom: 0;
+                height: 14px;
+                margin: auto;
+                font-size: 14px;
+                cursor: pointer;
+                color: #ccc;
+                z-index: 9;
+                display: none;
+            }
         </style>
     </head>
     <body>
@@ -53,6 +67,22 @@
                     
                     <div class='header'>
                         <h3>Japanology Episodes List</h3>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-sm-4 col-md-4 pull-md-right">
+                            <div class="search">
+                                <form>
+                                    <div class="input-group">
+                                      <input id="search_query" type="text" class="form-control" placeholder="Search for...">
+                                      <span id="search_clear">X</span>
+                                      <span class="input-group-btn">
+                                        <button class="btn btn-default" type="button"><span class="glyphicon glyphicon-search" aria-hidden="true"></span>Go</button>
+                                      </span>
+                                    </div><!-- /input-group -->
+                                </form>
+                            </div>
+                        </div>
                     </div>
                     
                     <p class='lead'>
@@ -89,7 +119,7 @@
                             
                                 {% for episode in season.episodes %}
                                     {% unless episode.reair %}
-                                        <tr data-id='{{ season.id }}-{{ episode.id }}'>
+                                        <tr data-season='{{ season.id }}' data-id='{{ season.id }}-{{ episode.id }}' data-episode="{{ episode.title }}" class="episode-session" >
                                             <td class='watched hidden-xs-down' data-toggle='tooltip' data-placement='left' title='Mark as Watched'>
                                                 <input type='checkbox'/>
                                             </td>
