@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import requests, csv, pprint, json
+from operator import itemgetter
 
 GOOGLE_SHEETS = 'https://docs.google.com/spreadsheets/d/{0}/export?format=csv'
 SHEET_KEY = '1rjtVle08VtK7AM9GMZ1zgQpTpctw0n9mCm8VOYN-Qso'
@@ -52,6 +53,8 @@ for season in episodes.keys():
         'id': season,
         'episodes': episodes[season],
     })
+
+seasons_coll = sorted(seasons_coll, key=itemgetter('id'), reverse=True) 
 
 # Output the Episodes Dictionary as JSON file
 handle = open('_data/episodes.json', 'w')
