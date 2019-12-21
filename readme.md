@@ -10,6 +10,7 @@ If you would like to help improve the website, check out the list of feature req
 To run this project locally, you can run something like `python3 -m http.server` to host the index.html file on port 8000.
 
 ### Contributors
+- Shane Reustle
 - Allen Wurtzinger
 - Cody Raspen
 
