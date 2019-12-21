@@ -6,19 +6,7 @@ const YT_IMG = 'https://i.ytimg.com/vi/'
 const YT_IMG_FILE = '/mqdefault.jpg'
 //const YT_IMG_FILE = '/default.jpg'
 
-let selectedSeason = 2019 // TODO Change to most recent
-function setSelectedSeason() {
-    let hash = window.location.hash
-    hash = hash.replace('#', '')
-    if(hash.length == 4){
-        try {
-            selectedSeason = parseInt(hash)
-        } catch(e) {
-            // Invalid hash
-        }
-    }
-}
-setSelectedSeason()
+let DEFAULT_SEASON = 2019 // TODO Change to most recent
 
 
 function renderEpisode(season, episode) {
@@ -50,7 +38,7 @@ function renderEpisode(season, episode) {
             </a>
         </div>`
     
-    if(season != selectedSeason){
+    if(season != DEFAULT_SEASON){
         el.style.display = 'none'
     }
     
@@ -61,16 +49,17 @@ function addSeasonTab(season) {
     // Add the nav tab for this season
     
     let active = ''
-    if(selectedSeason == season){
+    if(DEFAULT_SEASON == season){
         active = 'active'
     }
 
     let tab = document.createElement('li')
     tab.className += 'nav-item'
     tab.setAttribute('data-season', season)
-    tab.innerHTML = `<a class="nav-link ${active}" href="#${ season }">${ season }</a>`
+    tab.innerHTML = `<a class="nav-link ${active}" href="#">${ season }</a>`
     
     tab.onclick = function(e){
+        e.preventDefault()
         showSeason(season)
     }
     
@@ -92,8 +81,6 @@ function handleSeason(season) {
 
 function showSeason(season) {
     // Hide all episodes and show the selected season
-    
-    selectedSeason = season
     
     // Show the selected season episodes
     let episodes = document.querySelectorAll('#episodes-container>div')
