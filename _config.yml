@@ -2,5 +2,6 @@ sass:
   style: compressed
 
 yt: https://www.youtube.com/watch?v=
+yt_search: https://www.youtube.com/results?search_query=
 ytimg: https://i.ytimg.com/vi/
 thumbnail: /default.jpg

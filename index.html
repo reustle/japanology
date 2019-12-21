@@ -114,7 +114,7 @@
                                                 {% if episode.vid %}
                                                     <a href='{{ site.yt }}{{ episode.vid }}' target='_blank'>{{ episode.title }}</a>
                                                 {% else %}
-                                                    {{ episode.title }}
+                                                    <a href="{{ site.yt_search }}Japanology+{{ episode.title | uri_escape }}" target="_blank">{{ episode.title }} 🔎</a>
                                                 {% endif %}
                                             </td>
                                             <td class='hidden-xs-down'>
