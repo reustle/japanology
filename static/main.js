@@ -74,7 +74,8 @@ function handleSeason(season) {
     addSeasonTab(season.id)
 
     // Render the episodes
-    season.episodes.map(function(episode){
+    // Use reverse to show newest episodes first
+    season.episodes.reverse().map(function(episode){
         renderEpisode(season.id, episode)
     })
 }
