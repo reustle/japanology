@@ -2,11 +2,380 @@
   {
     "episodes": [
       {
+        "date": "2019-01-08", 
+        "reair": null, 
+        "id": 1, 
+        "vid": "BPQpagyvJ08", 
+        "title": "Roof Tilers"
+      }, 
+      {
+        "date": "2019-01-29", 
+        "reair": null, 
+        "id": 2, 
+        "vid": null, 
+        "title": "Japanophiles: Thomas Bertrand"
+      }, 
+      {
+        "date": "2019-02-19", 
+        "reair": null, 
+        "id": 3, 
+        "vid": null, 
+        "title": "Hidden Christians: Part 1"
+      }, 
+      {
+        "date": "2019-02-26", 
+        "reair": null, 
+        "id": 4, 
+        "vid": null, 
+        "title": "Hidden Christians: Part 2"
+      }, 
+      {
+        "date": "2019-03-05", 
+        "reair": null, 
+        "id": 5, 
+        "vid": "mhZfnbGYvLA", 
+        "title": "Wood: Culture"
+      }, 
+      {
+        "date": "2019-03-12", 
+        "reair": null, 
+        "id": 6, 
+        "vid": "vvp_w8r1muo", 
+        "title": "Wood: Carpentry"
+      }, 
+      {
+        "date": "2019-03-19", 
+        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032180/", 
+        "id": 7, 
+        "vid": "0rvVkO5FEUE", 
+        "title": "Japanophiles: Oussouby Sacko"
+      }, 
+      {
+        "date": "2019-04-26", 
+        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032181/", 
+        "id": 8, 
+        "vid": "wwDG50h3HCA", 
+        "title": "Meat"
+      }, 
+      {
+        "date": "2019-04-02", 
+        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032182/", 
+        "id": 9, 
+        "vid": "W96-XhuAvuQ", 
+        "title": "Popular Theater"
+      }, 
+      {
+        "date": "2019-04-16", 
+        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032183/", 
+        "id": 10, 
+        "vid": "JlHCOzB1WjU", 
+        "title": "Oni: Japanese Ogres"
+      }, 
+      {
+        "date": "2019-04-30", 
+        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032184/", 
+        "id": 11, 
+        "vid": "jQkXMeqFeZI", 
+        "title": "Japanese Dog Breeds"
+      }, 
+      {
+        "date": "2019-05-21", 
+        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032185/", 
+        "id": 12, 
+        "vid": "gQqFdOywH2k", 
+        "title": "Japanophiles: Peter MacMillan"
+      }, 
+      {
+        "date": "2019-06-11", 
+        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032186/", 
+        "id": 13, 
+        "vid": "uR7kpw3VnCc", 
+        "title": "Konamon: Flour-based Cuisine"
+      }, 
+      {
+        "date": "2019-06-25", 
+        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032187/", 
+        "id": 14, 
+        "vid": "PPzc7OXsodI", 
+        "title": "Frozen Food"
+      }, 
+      {
+        "date": "2019-07-09", 
+        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032188/", 
+        "id": 15, 
+        "vid": "1fZnbhDwEqg", 
+        "title": "Slippers"
+      }
+    ], 
+    "id": 2019
+  }, 
+  {
+    "episodes": [
+      {
+        "date": "2018-01-09", 
+        "reair": null, 
+        "id": 1, 
+        "vid": "ReZxw5mKqpE", 
+        "title": "Ocean Fishing"
+      }, 
+      {
+        "date": "2018-01-16", 
+        "reair": null, 
+        "id": 2, 
+        "vid": "7xP9niWE1mg", 
+        "title": "The Police"
+      }, 
+      {
+        "date": "2018-12-23", 
+        "reair": null, 
+        "id": 3, 
+        "vid": null, 
+        "title": "Japanophiles: Stephanie Tomiyasu"
+      }, 
+      {
+        "date": "2018-02-06", 
+        "reair": null, 
+        "id": 4, 
+        "vid": null, 
+        "title": "New Trends in Logistics"
+      }, 
+      {
+        "date": "2018-02-13", 
+        "reair": null, 
+        "id": 5, 
+        "vid": "DL9SMzjmKNY", 
+        "title": "Game Arcades"
+      }, 
+      {
+        "date": "2018-02-20", 
+        "reair": null, 
+        "id": 6, 
+        "vid": "N3rSIqG19Cw", 
+        "title": "Snow Removal"
+      }, 
+      {
+        "date": "2018-03-06", 
+        "reair": null, 
+        "id": 7, 
+        "vid": "OidF3fhpLCk", 
+        "title": "Shopping Streets"
+      }, 
+      {
+        "date": "2018-03-13", 
+        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032143/", 
+        "id": 8, 
+        "vid": "3QaFVmZN59Q", 
+        "title": "Japanophiles: Bjorn Heiberg"
+      }, 
+      {
         "date": "2018-03-20", 
         "reair": null, 
-        "id": 71, 
+        "id": 9, 
         "vid": "LzYh8tBapNo", 
-        "title": "Regional Rail Crisis"
+        "title": "Regional Transport Crisis"
+      }, 
+      {
+        "date": "2018-03-27", 
+        "reair": null, 
+        "id": 10, 
+        "vid": "iCFf_2r759s", 
+        "title": "Miniature Culture"
+      }, 
+      {
+        "date": "2018-04-03", 
+        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032146/", 
+        "id": 11, 
+        "vid": "f0ygDQfy3KU", 
+        "title": "Marriage"
+      }, 
+      {
+        "date": "2018-04-10", 
+        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032147/", 
+        "id": 12, 
+        "vid": "J1m4Eru2Y2Q", 
+        "title": "100 Yen Shops"
+      }, 
+      {
+        "date": "2018-04-17", 
+        "reair": null, 
+        "id": 13, 
+        "vid": null, 
+        "title": "Deep-fried Food"
+      }, 
+      {
+        "date": "2018-05-01", 
+        "reair": null, 
+        "id": 14, 
+        "vid": null, 
+        "title": "Lighthouses"
+      }, 
+      {
+        "date": "2018-05-22", 
+        "reair": null, 
+        "id": 15, 
+        "vid": null, 
+        "title": "Japanophiles: David E. Wells"
+      }, 
+      {
+        "date": "2018-06-05", 
+        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032151/", 
+        "id": 16, 
+        "vid": null, 
+        "title": "Industrial Heritage"
+      }, 
+      {
+        "date": "2018-06-19", 
+        "reair": null, 
+        "id": 17, 
+        "vid": null, 
+        "title": "Graves"
+      }, 
+      {
+        "date": "2018-06-26", 
+        "reair": null, 
+        "id": 18, 
+        "vid": "GadiZGLtqI8", 
+        "title": "Rice Cultivation"
+      }, 
+      {
+        "date": "2018-07-03", 
+        "reair": null, 
+        "id": 19, 
+        "vid": "Jd0ogXY9Cck", 
+        "title": "The Ogasawara Islands: A Multicultural Heritage"
+      }, 
+      {
+        "date": "2018-07-10", 
+        "reair": null, 
+        "id": 20, 
+        "vid": "a8Op8j6qnns", 
+        "title": "The Ogasawara Islands: A Turbulent History"
+      }, 
+      {
+        "date": "2018-07-17", 
+        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032156/", 
+        "id": 21, 
+        "vid": null, 
+        "title": "Japanophiles: Bruce Gutlove"
+      }, 
+      {
+        "date": "2018-07-31", 
+        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032157/", 
+        "id": 22, 
+        "vid": "y1u1FgIKDJo", 
+        "title": "Roadside Stations"
+      }, 
+      {
+        "date": "2018-08-07", 
+        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032158/", 
+        "id": 23, 
+        "vid": "e7YYlnm2RT8", 
+        "title": "Summer Resorts"
+      }, 
+      {
+        "date": "2018-08-21", 
+        "reair": null, 
+        "id": 24, 
+        "vid": null, 
+        "title": "Yurei: Japanese Ghosts"
+      }, 
+      {
+        "date": "2018-09-04", 
+        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032160/", 
+        "id": 25, 
+        "vid": "QyFJcMYtLZc", 
+        "title": "Radio Calisthenics"
+      }, 
+      {
+        "date": "2018-09-11", 
+        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032161/", 
+        "id": 26, 
+        "vid": "G5abxpUn5WI", 
+        "title": "Underground Shopping Streets"
+      }, 
+      {
+        "date": "2018-09-25", 
+        "reair": null, 
+        "id": 27, 
+        "vid": "xWns_1xDmxg", 
+        "title": "Japanophiles: Jagmohan S. Chandrani"
+      }, 
+      {
+        "date": "2018-10-02", 
+        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032163/", 
+        "id": 28, 
+        "vid": "Yar32HiitNg", 
+        "title": "A Sense of the Divine"
+      }, 
+      {
+        "date": "2018-10-09", 
+        "reair": null, 
+        "id": 29, 
+        "vid": "TkWXW49i4Ng", 
+        "title": "Earthquake-resistant Architecture"
+      }, 
+      {
+        "date": "2018-10-16", 
+        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032165/", 
+        "id": 30, 
+        "vid": "8J7I9FXHRDs", 
+        "title": "School Sports Days"
+      }, 
+      {
+        "date": "2018-10-30", 
+        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032166/", 
+        "id": 31, 
+        "vid": "EnpY49zKrQ8", 
+        "title": "School Satchels"
+      }, 
+      {
+        "date": "2018-11-06", 
+        "reair": null, 
+        "id": 32, 
+        "vid": "JUNhU2Po5Yk", 
+        "title": "Aquariums"
+      }, 
+      {
+        "date": "2018-10-13", 
+        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032168/", 
+        "id": 33, 
+        "vid": "kchSJRXNmkk", 
+        "title": "Onigiri: Rice Balls"
+      }, 
+      {
+        "date": "2018-11-20", 
+        "reair": null, 
+        "id": 34, 
+        "vid": "BN5dg9AfPqE", 
+        "title": "Japanophiles: David Stanley Hewett"
+      }, 
+      {
+        "date": "2018-10-27", 
+        "reair": null, 
+        "id": 35, 
+        "vid": "gXVeG3qn4K4", 
+        "title": "Coffee"
+      }, 
+      {
+        "date": "2018-12-11", 
+        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032171/", 
+        "id": 36, 
+        "vid": "2hDjTEWF6u0", 
+        "title": "Meiji-era Advisors"
+      }, 
+      {
+        "date": "2018-12-18", 
+        "reair": null, 
+        "id": 37, 
+        "vid": "WlgHhhBrEL0", 
+        "title": "School Uniforms"
+      }, 
+      {
+        "date": "2018-12-25", 
+        "reair": null, 
+        "id": 38, 
+        "vid": "J0Aa3dAn45c", 
+        "title": "Soba Restaurants"
       }
     ], 
     "id": 2018
@@ -99,7 +468,7 @@
       }, 
       {
         "date": "2017-04-25", 
-        "reair": "yes", 
+        "reair": null, 
         "id": 13, 
         "vid": null, 
         "title": "Moving Services"
@@ -113,14 +482,14 @@
       }, 
       {
         "date": "2017-05-09", 
-        "reair": "yes", 
+        "reair": null, 
         "id": 15, 
         "vid": null, 
         "title": "Family Crests"
       }, 
       {
         "date": "2017-05-16", 
-        "reair": "yes", 
+        "reair": null, 
         "id": 16, 
         "vid": null, 
         "title": "Breakfast"
@@ -134,7 +503,7 @@
       }, 
       {
         "date": "2017-05-30", 
-        "reair": "yes", 
+        "reair": null, 
         "id": 18, 
         "vid": null, 
         "title": "Bladed Tools"
@@ -148,7 +517,7 @@
       }, 
       {
         "date": "2017-06-13", 
-        "reair": "yes", 
+        "reair": null, 
         "id": 20, 
         "vid": "l25iRW_-4vI", 
         "title": "Ekiben"
@@ -190,7 +559,7 @@
       }, 
       {
         "date": "2017-07-25", 
-        "reair": "yes", 
+        "reair": null, 
         "id": 26, 
         "vid": null, 
         "title": "Kimono"
@@ -229,6 +598,83 @@
         "id": 31, 
         "vid": "FSHaE-Gz0Ls", 
         "title": "2d Characters: Origins and Evolution"
+      }, 
+      {
+        "date": "2017-09-05", 
+        "reair": null, 
+        "id": 32, 
+        "vid": "Q3umNMOwzkE", 
+        "title": "Children and Sports"
+      }, 
+      {
+        "date": "2017-09-12", 
+        "reair": null, 
+        "id": 33, 
+        "vid": "IMoJFmI1uVA", 
+        "title": "Amusement Parks"
+      }, 
+      {
+        "date": "2017-09-26", 
+        "reair": null, 
+        "id": 34, 
+        "vid": "x0jiFzstIt0", 
+        "title": "Japanophiles: Tyler Lynch"
+      }, 
+      {
+        "date": "2017-10-03", 
+        "reair": null, 
+        "id": 35, 
+        "vid": "ymnDHRSCiMQ", 
+        "title": "Particle Physics Research"
+      }, 
+      {
+        "date": "2017-10-17", 
+        "reair": null, 
+        "id": 36, 
+        "vid": "22E0K2t9Bck", 
+        "title": "Shrine Duties"
+      }, 
+      {
+        "date": "2017-10-24", 
+        "reair": null, 
+        "id": 37, 
+        "vid": "UW-DgYmZtxM", 
+        "title": "Special Rescue Teams"
+      }, 
+      {
+        "date": "2017-10-31", 
+        "reair": null, 
+        "id": 38, 
+        "vid": "3ttAckYqP8M", 
+        "title": "The Wonders of Air Travel"
+      }, 
+      {
+        "date": "2017-11-21", 
+        "reair": null, 
+        "id": 39, 
+        "vid": "yzA_Qw_SfTs", 
+        "title": "Japanophiles: Fernando Lopez"
+      }, 
+      {
+        "date": "2017-11-28", 
+        "reair": null, 
+        "id": 40, 
+        "vid": "FkIIdXiA9Ao", 
+        "title": "Changing Perceptions of Cars"
+      }, 
+      {
+        "date": "2017-12-12", 
+        "reair": null, 
+        "id": 41, 
+        "vid": "0aoPmBVlVh4", 
+        "title": "The Way of Tea: Wellspring of Omotenashi, Part 1"
+      }, 
+      {
+        "date": "2017-12-19", 
+        "reair": null, 
+        "id": 42, 
+        "vid": null, 
+        "title": "The Way of Tea: Wellspring of Omotenashi, Part 2"
       }
     ], 
     "id": 2017
@@ -258,7 +704,7 @@
       }, 
       {
         "date": "2016-02-04", 
-        "reair": "2015-10-01", 
+        "reair": null, 
         "id": 4, 
         "vid": null, 
         "title": "Onsen"
@@ -272,7 +718,7 @@
       }, 
       {
         "date": "2016-02-18", 
-        "reair": "2015-10-22", 
+        "reair": null, 
         "id": 6, 
         "vid": null, 
         "title": "Wrapping and Packaging"
@@ -293,7 +739,7 @@
       }, 
       {
         "date": "2016-03-10", 
-        "reair": "2015-04-16", 
+        "reair": null, 
         "id": 9, 
         "vid": null, 
         "title": "A Season of Change"
@@ -307,14 +753,14 @@
       }, 
       {
         "date": "2016-03-24", 
-        "reair": "2015-11-19", 
+        "reair": null, 
         "id": 11, 
         "vid": "4kiIpeVaMC4", 
         "title": "Japanophiles: Adam Zgola"
       }, 
       {
         "date": "2016-03-31", 
-        "reair": "2015-12-10", 
+        "reair": null, 
         "id": 12, 
         "vid": null, 
         "title": "Tidying Up"
@@ -342,7 +788,7 @@
       }, 
       {
         "date": "2016-04-28", 
-        "reair": "2015-04-23", 
+        "reair": null, 
         "id": 16, 
         "vid": null, 
         "title": "Waste and Recycling"
@@ -370,7 +816,7 @@
       }, 
       {
         "date": "2016-05-26", 
-        "reair": "2014-01-23", 
+        "reair": null, 
         "id": 20, 
         "vid": "GiOQNhIRmw4", 
         "title": "Ise Jingu"
@@ -384,7 +830,7 @@
       }, 
       {
         "date": "2016-06-09", 
-        "reair": "2016-02-25", 
+        "reair": null, 
         "id": 22, 
         "vid": "DTW5gKCmhOg", 
         "title": "Japanophiles: Jorge Cabeza Fernandez"
@@ -412,7 +858,7 @@
       }, 
       {
         "date": "2016-07-07", 
-        "reair": "2012-05-24", 
+        "reair": null, 
         "id": 26, 
         "vid": null, 
         "title": "Kimonos"
@@ -503,7 +949,7 @@
       }, 
       {
         "date": "2016-11-10", 
-        "reair": "2016-04-14", 
+        "reair": null, 
         "id": 39, 
         "vid": null, 
         "title": "Quest for Perfect Skin"
@@ -538,7 +984,7 @@
       }, 
       {
         "date": "2016-12-29", 
-        "reair": "yes", 
+        "reair": null, 
         "id": 44, 
         "vid": null, 
         "title": "Snow Country"
@@ -627,14 +1073,14 @@
       }, 
       {
         "date": "2015-05-14", 
-        "reair": "2010-09-03", 
+        "reair": null, 
         "id": 12, 
         "vid": "sw9S_Ykym88", 
         "title": "Dams"
       }, 
       {
         "date": "2015-05-28", 
-        "reair": "2010-05-21", 
+        "reair": null, 
         "id": 13, 
         "vid": "TkhpsMvcjuY", 
         "title": "Izakaya"
@@ -1017,7 +1463,7 @@
       }, 
       {
         "date": "2014-10-09", 
-        "reair": "2008-11-09", 
+        "reair": null, 
         "id": 32, 
         "vid": null, 
         "title": "Buddhist Statues"
@@ -1045,7 +1491,7 @@
       }, 
       {
         "date": "2014-11-13", 
-        "reair": "2010-04-23", 
+        "reair": null, 
         "id": 36, 
         "vid": "4g1hj6XgOpM", 
         "title": "Robots"
@@ -1059,14 +1505,14 @@
       }, 
       {
         "date": "2014-12-04", 
-        "reair": "2009-02-16", 
+        "reair": null, 
         "id": 38, 
         "vid": null, 
         "title": "Bonsai"
       }, 
       {
         "date": "2014-12-11", 
-        "reair": "2008-10-19", 
+        "reair": null, 
         "id": 39, 
         "vid": "jtkTX4ul6-k", 
         "title": "Sushi"
