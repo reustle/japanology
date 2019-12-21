@@ -1,165 +1,53 @@
----
----
-<html>
-    <head>
-        <meta charset='utf-8'>
-        <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-        <meta name='viewport' content='width=device-width, initial-scale=1, minimal-ui'>
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
 
-        <meta name='author' content='Shane Reustle'>
-        <meta name='description' content='A full list of Japanology and Japanology Plus episodes'>
+    <meta name="description" content="A full list of Japanology and Japanology Plus episodes">
 
-        <title>Japanology Episodes List</title>
+    <title>Japanology Episodes List</title>
 
-        <link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css' rel='stylesheet'>
-        <link href='static/lib/bootstrap/css/bootstrap.min.css' rel='stylesheet'>
-        
-        <style type='text/css'>
-            .header {
-                margin: 20px 0px;
-            }
-            .table th, .table td {
-                vertical-align: middle;
-            }
-            td.watched {
-                width: 35px;
-                padding-top: 9px;
-                padding-left: 9px;
-            }
-            td.thumbnail {
-                width: 129.6px;
-            }
-            td.thumbnail div {
-                width: 120px;
-                height: 67px;
-                background-size: cover;
-                background-position: center;
-            }
-            .reair-icon {
-                margin-top: 4px;
-                color: #ccc;
-            }
-            
-            .nav-tabs {
-                border-bottom: 0px solid #fff;
-            }
-            
-            .footer-text {
-                margin: 30px 0px 40px 0px;
-                text-align: center;
-                font-size: 12px;
-                color: #888;
-            }
-        </style>
-    </head>
-    <body>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet"/>
+    
+</head>
+<body>
 
-        <div class='container'>
-            <div class='row'>
-                <div class='col-md-10 col-md-offset-1'>
-                    
-                    <div class='header'>
-                        <h3>Japanology Episodes List</h3>
-                    </div>
-                    
-                    <p class='lead'>
-                        A list of all Japanology episodes, sorted by air date. Keep track of which episodes you&#39;ve seen by marking them as "watched" on the left. This project is free and <a href='https://github.com/reustle/japanology/blob/master/readme.md'>open for contributions on github</a>.
-                    </p>
-                    
-                    <ul class='nav nav-tabs'>
-                        <li class='nav-item'><a class='nav-link' data-season='2019' href='#' title='Japanology Plus'>2019</a></li>
-                        <li class='nav-item'><a class='nav-link' data-season='2018' href='#' title='Japanology Plus'>2018</a></li>
-                        <li class='nav-item'><a class='nav-link' data-season='2017' href='#' title='Japanology Plus'>2017</a></li>
-                        <li class='nav-item'><a class='nav-link' data-season='2016' href='#' title='Japanology Plus'>2016</a></li>
-                        <li class='nav-item'><a class='nav-link' data-season='2015' href='#' title='Japanology Plus'>2015</a></li>
-                        <li class='nav-item'><a class='nav-link' data-season='2014' href='#' title='Season 7'>2014</a></li>
-                        <li class='nav-item'><a class='nav-link' data-season='2013' href='#' title='Season 6'>2013</a></li>
-                        <li class='nav-item'><a class='nav-link' data-season='2012' href='#' title='Season 5'>2012</a></li>
-                        <li class='nav-item'><a class='nav-link' data-season='2011' href='#' title='Season 4'>2011</a></li>
-                        <li class='nav-item'><a class='nav-link' data-season='2010' href='#' title='Season 3'>2010</a></li>
-                        <li class='nav-item'><a class='nav-link' data-season='2009' href='#' title='Season 2'>2009</a></li>
-                        <li class='nav-item'><a class='nav-link' data-season='2008' href='#' title='Season 1'>2008</a></li>
-                    </ul>
-                    
-                    {% for season in site.data.episodes %}
-                    
-                        <table class='table table-striped table-sm' data-season='{{ season.id }}'>
-                            <thead>
-                                <tr>
-                                    <th class='hidden-xs-down'></th>
-                                    <th class='hidden-xs-down'></th>
-                                    <th>Title</th>
-                                    <th width='100px' class='hidden-xs-down'>Episode</th>
-                                    <th width='150px' class='hidden-xs-down'>Air Date</th>
-                                </tr>
-                            </thead>
-                            
-                            <tbody>
-                            
-                                {% for episode in season.episodes %}
-                                    {% unless episode.reair %}
-                                        <tr data-id='{{ season.id }}-{{ episode.id }}'>
-                                            <td class='watched hidden-xs-down' data-toggle='tooltip' data-placement='left' title='Mark as Watched'>
-                                                <input type='checkbox'/>
-                                            </td>
-                                            <td class='thumbnail hidden-xs-down'>
-                                                {% if episode.vid %}
-                                                    <a href='{{ site.yt }}{{ episode.vid }}' target='_blank' data-toggle='tooltip' data-placement='left' title='Watch Now'>
-                                                        <div style='background-image:url({{ site.ytimg }}{{ episode.vid }}{{ site.thumbnail }});'></div>
-                                                    </a>
-                                                {% else %}
-                                                    <div style='background-image:url({{ site.ytimg }}{{ episode.vid }}{{ site.thumbnail }});'></div>
-                                                {% endif %}
-                                            </td>
-                                            <td>
-                                                {% if episode.vid %}
-                                                    <a href='{{ site.yt }}{{ episode.vid }}' target='_blank'>{{ episode.title }}</a>
-                                                {% else %}
-                                                    <a href="{{ site.yt_search }}Japanology+{{ episode.title | uri_escape }}" target="_blank">{{ episode.title }} &nbsp;🔎</a>
-                                                {% endif %}
-                                            </td>
-                                            <td class='hidden-xs-down'>
-                                                {{ episode.id }}
-                                            </td>
-                                            <td class='hidden-xs-down'>
-                                                {{ episode.date }}
-                                            </td>
-                                        </tr>
-                                    {% endunless %}
-                                {% endfor %}
-                            
-                            </tbody>
-                        </table>
-                    
-                    {% endfor %}
-                    
-                </div>
-            </div>
-            <div class='row'>
-                <div class='col-md-12 footer-text'>
-                    Built by <a href='http://reustle.org'>Shane Reustle</a> &minus;
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10 offset-md-1">
+                
+                <header class="mt-5 mb-5">
+                    <h2 class="mb-3">Japanology Episodes List</h2>
+                    <p class="lead">An unofficial list of every Begin Japanology and Japanology Plus episode, sorted by release date. This project is free and <a href="https://github.com/reustle/japanology/blob/master/readme.md">open for contributions on github</a>.</p>
+                </header>
+                
+                <ul class="nav nav-pills mb-5" id="season-nav"></ul>
+                
+                <section class="row row-cols-1 row-cols-md-3" id="episodes-container"></section>
+                
+                <small class="text-center text-muted d-block mb-5 mt-5">
+                    Built by <a href="http://reustle.org" target="_blank">Shane Reustle</a> &minus;
                     All content copyright &copy; NHK (Japan Broadcasting Corporation)
-                </div>
+                </small>
             </div>
         </div>
+    </div>
 
-        <script src='static/lib/jquery/jquery-1.11.1.min.js'></script>
-        <script src='static/lib/tether.min.js'></script>
-        <script src='static/lib/bootstrap/js/bootstrap.min.js'></script>
+    <script src="https://cdn.jsdelivr.net/npm/whatwg-fetch@3.0.0/dist/fetch.umd.min.js"></script>
+    <script src="static/main.js"></script>
 
-        <script src='static/session.js'></script>
-        <script src='static/main.js'></script>
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        
+        ga("create", "UA-2580539-33", "auto");
+        ga("send", "pageview");
+    </script>
 
-        <script>
-            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-            
-            ga('create', 'UA-2580539-33', 'auto');
-            ga('send', 'pageview');
-        </script>
-
-    </body>
+</body>
 </html>
 

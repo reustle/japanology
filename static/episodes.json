@@ -2,106 +2,91 @@
   {
     "episodes": [
       {
-        "date": "2019-01-08", 
-        "reair": null, 
+        "date": "Jan 8, 2019", 
         "id": 1, 
         "vid": "BPQpagyvJ08", 
         "title": "Roof Tilers"
       }, 
       {
-        "date": "2019-01-29", 
-        "reair": null, 
+        "date": "Jan 29, 2019", 
         "id": 2, 
         "vid": null, 
         "title": "Japanophiles: Thomas Bertrand"
       }, 
       {
-        "date": "2019-02-19", 
-        "reair": null, 
+        "date": "Feb 19, 2019", 
         "id": 3, 
         "vid": null, 
         "title": "Hidden Christians: Part 1"
       }, 
       {
-        "date": "2019-02-26", 
-        "reair": null, 
+        "date": "Feb 26, 2019", 
         "id": 4, 
         "vid": null, 
         "title": "Hidden Christians: Part 2"
       }, 
       {
-        "date": "2019-03-05", 
-        "reair": null, 
+        "date": "Mar 5, 2019", 
         "id": 5, 
         "vid": "mhZfnbGYvLA", 
         "title": "Wood: Culture"
       }, 
       {
-        "date": "2019-03-12", 
-        "reair": null, 
+        "date": "Mar 12, 2019", 
         "id": 6, 
         "vid": "vvp_w8r1muo", 
         "title": "Wood: Carpentry"
       }, 
       {
-        "date": "2019-03-19", 
-        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032180/", 
+        "date": "Mar 19, 2019", 
         "id": 7, 
         "vid": "0rvVkO5FEUE", 
         "title": "Japanophiles: Oussouby Sacko"
       }, 
       {
-        "date": "2019-04-26", 
-        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032181/", 
+        "date": "Apr 26, 2019", 
         "id": 8, 
         "vid": "wwDG50h3HCA", 
         "title": "Meat"
       }, 
       {
-        "date": "2019-04-02", 
-        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032182/", 
+        "date": "Apr 2, 2019", 
         "id": 9, 
         "vid": "W96-XhuAvuQ", 
         "title": "Popular Theater"
       }, 
       {
-        "date": "2019-04-16", 
-        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032183/", 
+        "date": "Apr 16, 2019", 
         "id": 10, 
         "vid": "JlHCOzB1WjU", 
         "title": "Oni: Japanese Ogres"
       }, 
       {
-        "date": "2019-04-30", 
-        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032184/", 
+        "date": "Apr 30, 2019", 
         "id": 11, 
         "vid": "jQkXMeqFeZI", 
         "title": "Japanese Dog Breeds"
       }, 
       {
-        "date": "2019-05-21", 
-        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032185/", 
+        "date": "May 21, 2019", 
         "id": 12, 
         "vid": "gQqFdOywH2k", 
         "title": "Japanophiles: Peter MacMillan"
       }, 
       {
-        "date": "2019-06-11", 
-        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032186/", 
+        "date": "Jun 11, 2019", 
         "id": 13, 
         "vid": "uR7kpw3VnCc", 
         "title": "Konamon: Flour-based Cuisine"
       }, 
       {
-        "date": "2019-06-25", 
-        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032187/", 
+        "date": "Jun 25, 2019", 
         "id": 14, 
         "vid": "PPzc7OXsodI", 
         "title": "Frozen Food"
       }, 
       {
-        "date": "2019-07-09", 
-        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032188/", 
+        "date": "Jul 9, 2019", 
         "id": 15, 
         "vid": "1fZnbhDwEqg", 
         "title": "Slippers"
@@ -112,267 +97,229 @@
   {
     "episodes": [
       {
-        "date": "2018-01-09", 
-        "reair": null, 
+        "date": "Jan 9, 2018", 
         "id": 1, 
         "vid": "ReZxw5mKqpE", 
         "title": "Ocean Fishing"
       }, 
       {
-        "date": "2018-01-16", 
-        "reair": null, 
+        "date": "Jan 16, 2018", 
         "id": 2, 
         "vid": "7xP9niWE1mg", 
         "title": "The Police"
       }, 
       {
-        "date": "2018-12-23", 
-        "reair": null, 
+        "date": "Dec 23, 2018", 
         "id": 3, 
         "vid": null, 
         "title": "Japanophiles: Stephanie Tomiyasu"
       }, 
       {
-        "date": "2018-02-06", 
-        "reair": null, 
+        "date": "Feb 6, 2018", 
         "id": 4, 
         "vid": null, 
         "title": "New Trends in Logistics"
       }, 
       {
-        "date": "2018-02-13", 
-        "reair": null, 
+        "date": "Feb 13, 2018", 
         "id": 5, 
         "vid": "DL9SMzjmKNY", 
         "title": "Game Arcades"
       }, 
       {
-        "date": "2018-02-20", 
-        "reair": null, 
+        "date": "Feb 20, 2018", 
         "id": 6, 
         "vid": "N3rSIqG19Cw", 
         "title": "Snow Removal"
       }, 
       {
-        "date": "2018-03-06", 
-        "reair": null, 
+        "date": "Mar 6, 2018", 
         "id": 7, 
         "vid": "OidF3fhpLCk", 
         "title": "Shopping Streets"
       }, 
       {
-        "date": "2018-03-13", 
-        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032143/", 
+        "date": "Mar 13, 2018", 
         "id": 8, 
         "vid": "3QaFVmZN59Q", 
         "title": "Japanophiles: Bjorn Heiberg"
       }, 
       {
-        "date": "2018-03-20", 
-        "reair": null, 
+        "date": "Mar 20, 2018", 
         "id": 9, 
         "vid": "LzYh8tBapNo", 
         "title": "Regional Transport Crisis"
       }, 
       {
-        "date": "2018-03-27", 
-        "reair": null, 
+        "date": "Mar 27, 2018", 
         "id": 10, 
         "vid": "iCFf_2r759s", 
         "title": "Miniature Culture"
       }, 
       {
-        "date": "2018-04-03", 
-        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032146/", 
+        "date": "Apr 3, 2018", 
         "id": 11, 
         "vid": "f0ygDQfy3KU", 
         "title": "Marriage"
       }, 
       {
-        "date": "2018-04-10", 
-        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032147/", 
+        "date": "Apr 10, 2018", 
         "id": 12, 
         "vid": "J1m4Eru2Y2Q", 
         "title": "100 Yen Shops"
       }, 
       {
-        "date": "2018-04-17", 
-        "reair": null, 
+        "date": "Apr 17, 2018", 
         "id": 13, 
         "vid": null, 
         "title": "Deep-fried Food"
       }, 
       {
-        "date": "2018-05-01", 
-        "reair": null, 
+        "date": "May 1, 2018", 
         "id": 14, 
         "vid": null, 
         "title": "Lighthouses"
       }, 
       {
-        "date": "2018-05-22", 
-        "reair": null, 
+        "date": "May 22, 2018", 
         "id": 15, 
         "vid": null, 
         "title": "Japanophiles: David E. Wells"
       }, 
       {
-        "date": "2018-06-05", 
-        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032151/", 
+        "date": "Jun 5, 2018", 
         "id": 16, 
         "vid": null, 
         "title": "Industrial Heritage"
       }, 
       {
-        "date": "2018-06-19", 
-        "reair": null, 
+        "date": "Jun 19, 2018", 
         "id": 17, 
         "vid": null, 
         "title": "Graves"
       }, 
       {
-        "date": "2018-06-26", 
-        "reair": null, 
+        "date": "Jun 26, 2018", 
         "id": 18, 
         "vid": "GadiZGLtqI8", 
         "title": "Rice Cultivation"
       }, 
       {
-        "date": "2018-07-03", 
-        "reair": null, 
+        "date": "Jul 3, 2018", 
         "id": 19, 
         "vid": "Jd0ogXY9Cck", 
         "title": "The Ogasawara Islands: A Multicultural Heritage"
       }, 
       {
-        "date": "2018-07-10", 
-        "reair": null, 
+        "date": "Jul 10, 2018", 
         "id": 20, 
         "vid": "a8Op8j6qnns", 
         "title": "The Ogasawara Islands: A Turbulent History"
       }, 
       {
-        "date": "2018-07-17", 
-        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032156/", 
+        "date": "Jul 17, 2018", 
         "id": 21, 
         "vid": null, 
         "title": "Japanophiles: Bruce Gutlove"
       }, 
       {
-        "date": "2018-07-31", 
-        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032157/", 
+        "date": "Jul 31, 2018", 
         "id": 22, 
         "vid": "y1u1FgIKDJo", 
         "title": "Roadside Stations"
       }, 
       {
-        "date": "2018-08-07", 
-        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032158/", 
+        "date": "Aug 7, 2018", 
         "id": 23, 
         "vid": "e7YYlnm2RT8", 
         "title": "Summer Resorts"
       }, 
       {
-        "date": "2018-08-21", 
-        "reair": null, 
+        "date": "Aug 21, 2018", 
         "id": 24, 
         "vid": null, 
         "title": "Yurei: Japanese Ghosts"
       }, 
       {
-        "date": "2018-09-04", 
-        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032160/", 
+        "date": "Sep 4, 2018", 
         "id": 25, 
         "vid": "QyFJcMYtLZc", 
         "title": "Radio Calisthenics"
       }, 
       {
-        "date": "2018-09-11", 
-        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032161/", 
+        "date": "Sep 11, 2018", 
         "id": 26, 
         "vid": "G5abxpUn5WI", 
         "title": "Underground Shopping Streets"
       }, 
       {
-        "date": "2018-09-25", 
-        "reair": null, 
+        "date": "Sep 25, 2018", 
         "id": 27, 
         "vid": "xWns_1xDmxg", 
         "title": "Japanophiles: Jagmohan S. Chandrani"
       }, 
       {
-        "date": "2018-10-02", 
-        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032163/", 
+        "date": "Oct 2, 2018", 
         "id": 28, 
         "vid": "Yar32HiitNg", 
         "title": "A Sense of the Divine"
       }, 
       {
-        "date": "2018-10-09", 
-        "reair": null, 
+        "date": "Oct 9, 2018", 
         "id": 29, 
         "vid": "TkWXW49i4Ng", 
         "title": "Earthquake-resistant Architecture"
       }, 
       {
-        "date": "2018-10-16", 
-        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032165/", 
+        "date": "Oct 16, 2018", 
         "id": 30, 
         "vid": "8J7I9FXHRDs", 
         "title": "School Sports Days"
       }, 
       {
-        "date": "2018-10-30", 
-        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032166/", 
+        "date": "Oct 30, 2018", 
         "id": 31, 
         "vid": "EnpY49zKrQ8", 
         "title": "School Satchels"
       }, 
       {
-        "date": "2018-11-06", 
-        "reair": null, 
+        "date": "Nov 6, 2018", 
         "id": 32, 
         "vid": "JUNhU2Po5Yk", 
         "title": "Aquariums"
       }, 
       {
-        "date": "2018-10-13", 
-        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032168/", 
+        "date": "Oct 13, 2018", 
         "id": 33, 
         "vid": "kchSJRXNmkk", 
         "title": "Onigiri: Rice Balls"
       }, 
       {
-        "date": "2018-11-20", 
-        "reair": null, 
+        "date": "Nov 20, 2018", 
         "id": 34, 
         "vid": "BN5dg9AfPqE", 
         "title": "Japanophiles: David Stanley Hewett"
       }, 
       {
-        "date": "2018-10-27", 
-        "reair": null, 
+        "date": "Oct 27, 2018", 
         "id": 35, 
         "vid": "gXVeG3qn4K4", 
         "title": "Coffee"
       }, 
       {
-        "date": "2018-12-11", 
-        "reair": "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2032171/", 
+        "date": "Dec 11, 2018", 
         "id": 36, 
         "vid": "2hDjTEWF6u0", 
         "title": "Meiji-era Advisors"
       }, 
       {
-        "date": "2018-12-18", 
-        "reair": null, 
+        "date": "Dec 18, 2018", 
         "id": 37, 
         "vid": "WlgHhhBrEL0", 
         "title": "School Uniforms"
       }, 
       {
-        "date": "2018-12-25", 
-        "reair": null, 
+        "date": "Dec 25, 2018", 
         "id": 38, 
         "vid": "J0Aa3dAn45c", 
         "title": "Soba Restaurants"
@@ -383,295 +330,253 @@
   {
     "episodes": [
       {
-        "date": "2017-01-05", 
-        "reair": null, 
+        "date": "Jan 5, 2017", 
         "id": 1, 
         "vid": "cvF9b0FWUJs", 
         "title": "Japanophiles: Carine Lafitte"
       }, 
       {
-        "date": "2017-01-26", 
-        "reair": null, 
+        "date": "Jan 26, 2017", 
         "id": 2, 
         "vid": "etkN604N7UU", 
         "title": "Noh Theater"
       }, 
       {
-        "date": "2017-02-02", 
-        "reair": null, 
+        "date": "Feb 2, 2017", 
         "id": 3, 
         "vid": "usESayD2UkU", 
         "title": "Moving Services"
       }, 
       {
-        "date": "2017-02-09", 
-        "reair": null, 
+        "date": "Feb 9, 2017", 
         "id": 4, 
         "vid": "lVOL02Ea958", 
         "title": "Okinawan Karate"
       }, 
       {
-        "date": "2017-02-16", 
-        "reair": null, 
+        "date": "Feb 16, 2017", 
         "id": 5, 
         "vid": "CNj4g-hOYwM", 
         "title": "Sleep"
       }, 
       {
-        "date": "2017-02-23", 
-        "reair": null, 
+        "date": "Feb 23, 2017", 
         "id": 6, 
         "vid": "Qy2uML3tLkg", 
         "title": "Tokyo Rail Network"
       }, 
       {
-        "date": "2017-03-02", 
-        "reair": null, 
+        "date": "Mar 2, 2017", 
         "id": 7, 
         "vid": "zz1eBPVwrl8", 
         "title": "Denim"
       }, 
       {
-        "date": "2017-03-09", 
-        "reair": null, 
+        "date": "Mar 9, 2017", 
         "id": 8, 
         "vid": "GBDVfaolKkI", 
         "title": "Japanophiles: Randy Channell Soei"
       }, 
       {
-        "date": "2017-03-30", 
-        "reair": null, 
+        "date": "Mar 30, 2017", 
         "id": 9, 
         "vid": "3jytRDR1F00", 
         "title": "Japanophiles: Zoe Vincent"
       }, 
       {
-        "date": "2017-04-04", 
-        "reair": null, 
+        "date": "Apr 4, 2017", 
         "id": 10, 
         "vid": "N4uqb3jPpCs", 
         "title": "Buddhist Altars"
       }, 
       {
-        "date": "2017-04-11", 
-        "reair": null, 
+        "date": "Apr 11, 2017", 
         "id": 11, 
         "vid": "5YgyAwuIRWQ", 
         "title": "Driving Schools"
       }, 
       {
-        "date": "2017-04-18", 
-        "reair": null, 
+        "date": "Apr 18, 2017", 
         "id": 12, 
         "vid": null, 
         "title": "Curry"
       }, 
       {
-        "date": "2017-04-25", 
-        "reair": null, 
+        "date": "Apr 25, 2017", 
         "id": 13, 
         "vid": null, 
         "title": "Moving Services"
       }, 
       {
-        "date": "2017-05-02", 
-        "reair": null, 
+        "date": "May 2, 2017", 
         "id": 14, 
         "vid": "uNAbHqlMcIE", 
         "title": "Cafes"
       }, 
       {
-        "date": "2017-05-09", 
-        "reair": null, 
+        "date": "May 9, 2017", 
         "id": 15, 
         "vid": null, 
         "title": "Family Crests"
       }, 
       {
-        "date": "2017-05-16", 
-        "reair": null, 
+        "date": "May 16, 2017", 
         "id": 16, 
         "vid": null, 
         "title": "Breakfast"
       }, 
       {
-        "date": "2017-05-23", 
-        "reair": null, 
+        "date": "May 23, 2017", 
         "id": 17, 
         "vid": null, 
         "title": "Japanophiles: Yoram Ofer"
       }, 
       {
-        "date": "2017-05-30", 
-        "reair": null, 
+        "date": "May 30, 2017", 
         "id": 18, 
         "vid": null, 
         "title": "Bladed Tools"
       }, 
       {
-        "date": "2017-06-06", 
-        "reair": null, 
+        "date": "Jun 6, 2017", 
         "id": 19, 
         "vid": "NZSOOLSf2sA", 
         "title": "School Lunch"
       }, 
       {
-        "date": "2017-06-13", 
-        "reair": null, 
+        "date": "Jun 13, 2017", 
         "id": 20, 
         "vid": "l25iRW_-4vI", 
         "title": "Ekiben"
       }, 
       {
-        "date": "2017-06-20", 
-        "reair": null, 
+        "date": "Jun 20, 2017", 
         "id": 21, 
         "vid": "i0-XaR-n4Ik", 
         "title": "Capsule Toys"
       }, 
       {
-        "date": "2017-06-27", 
-        "reair": null, 
+        "date": "Jun 27, 2017", 
         "id": 22, 
         "vid": null, 
         "title": "Buses"
       }, 
       {
-        "date": "2017-07-04", 
-        "reair": null, 
+        "date": "Jul 4, 2017", 
         "id": 23, 
         "vid": null, 
         "title": "Traditional Music"
       }, 
       {
-        "date": "2017-07-11", 
-        "reair": null, 
+        "date": "Jul 11, 2017", 
         "id": 24, 
         "vid": null, 
         "title": "Traditional Music in Modern Life"
       }, 
       {
-        "date": "2017-07-18", 
-        "reair": null, 
+        "date": "Jul 18, 2017", 
         "id": 25, 
         "vid": null, 
         "title": "Japanophiles: Nsenda Lukumwena"
       }, 
       {
-        "date": "2017-07-25", 
-        "reair": null, 
+        "date": "Jul 25, 2017", 
         "id": 26, 
         "vid": null, 
         "title": "Kimono"
       }, 
       {
-        "date": "2017-08-01", 
-        "reair": null, 
+        "date": "Aug 1, 2017", 
         "id": 27, 
         "vid": "0Xjz46EN3a8", 
         "title": "Urban Renewal"
       }, 
       {
-        "date": "2017-08-08", 
-        "reair": null, 
+        "date": "Aug 8, 2017", 
         "id": 28, 
         "vid": "u0Xxg6jNzxc", 
         "title": "Toilets"
       }, 
       {
-        "date": "2017-08-15", 
-        "reair": null, 
+        "date": "Aug 15, 2017", 
         "id": 29, 
         "vid": "-ty60ShOIR8", 
         "title": "Fireworks"
       }, 
       {
-        "date": "2017-08-22", 
-        "reair": null, 
+        "date": "Aug 22, 2017", 
         "id": 30, 
         "vid": "0ghYEOYCyHo", 
         "title": "Anthropomorphism"
       }, 
       {
-        "date": "2017-08-29", 
-        "reair": null, 
+        "date": "Aug 29, 2017", 
         "id": 31, 
         "vid": "FSHaE-Gz0Ls", 
         "title": "2d Characters: Origins and Evolution"
       }, 
       {
-        "date": "2017-09-05", 
-        "reair": null, 
+        "date": "Sep 5, 2017", 
         "id": 32, 
         "vid": "Q3umNMOwzkE", 
         "title": "Children and Sports"
       }, 
       {
-        "date": "2017-09-12", 
-        "reair": null, 
+        "date": "Sep 12, 2017", 
         "id": 33, 
         "vid": "IMoJFmI1uVA", 
         "title": "Amusement Parks"
       }, 
       {
-        "date": "2017-09-26", 
-        "reair": null, 
+        "date": "Sep 26, 2017", 
         "id": 34, 
         "vid": "x0jiFzstIt0", 
         "title": "Japanophiles: Tyler Lynch"
       }, 
       {
-        "date": "2017-10-03", 
-        "reair": null, 
+        "date": "Oct 3, 2017", 
         "id": 35, 
         "vid": "ymnDHRSCiMQ", 
         "title": "Particle Physics Research"
       }, 
       {
-        "date": "2017-10-17", 
-        "reair": null, 
+        "date": "Oct 17, 2017", 
         "id": 36, 
         "vid": "22E0K2t9Bck", 
         "title": "Shrine Duties"
       }, 
       {
-        "date": "2017-10-24", 
-        "reair": null, 
+        "date": "Oct 24, 2017", 
         "id": 37, 
         "vid": "UW-DgYmZtxM", 
         "title": "Special Rescue Teams"
       }, 
       {
-        "date": "2017-10-31", 
-        "reair": null, 
+        "date": "Oct 31, 2017", 
         "id": 38, 
         "vid": "3ttAckYqP8M", 
         "title": "The Wonders of Air Travel"
       }, 
       {
-        "date": "2017-11-21", 
-        "reair": null, 
+        "date": "Nov 21, 2017", 
         "id": 39, 
         "vid": "yzA_Qw_SfTs", 
         "title": "Japanophiles: Fernando Lopez"
       }, 
       {
-        "date": "2017-11-28", 
-        "reair": null, 
+        "date": "Nov 28, 2017", 
         "id": 40, 
         "vid": "FkIIdXiA9Ao", 
         "title": "Changing Perceptions of Cars"
       }, 
       {
-        "date": "2017-12-12", 
-        "reair": null, 
+        "date": "Dec 12, 2017", 
         "id": 41, 
         "vid": "0aoPmBVlVh4", 
         "title": "The Way of Tea: Wellspring of Omotenashi, Part 1"
       }, 
       {
-        "date": "2017-12-19", 
-        "reair": null, 
+        "date": "Dec 19, 2017", 
         "id": 42, 
         "vid": null, 
         "title": "The Way of Tea: Wellspring of Omotenashi, Part 2"
@@ -682,309 +587,265 @@
   {
     "episodes": [
       {
-        "date": "2016-01-07", 
-        "reair": null, 
+        "date": "Jan 7, 2016", 
         "id": 1, 
         "vid": "0tmWgzde8FM", 
         "title": "Japanophiles: Maud Archambault"
       }, 
       {
-        "date": "2016-01-14", 
-        "reair": null, 
+        "date": "Jan 14, 2016", 
         "id": 2, 
         "vid": null, 
         "title": "Silk"
       }, 
       {
-        "date": "2016-01-28", 
-        "reair": null, 
+        "date": "Jan 28, 2016", 
         "id": 3, 
         "vid": "EG9oQUs0mmc", 
         "title": "Underground Tokyo"
       }, 
       {
-        "date": "2016-02-04", 
-        "reair": null, 
+        "date": "Feb 4, 2016", 
         "id": 4, 
         "vid": null, 
         "title": "Onsen"
       }, 
       {
-        "date": "2016-02-11", 
-        "reair": null, 
+        "date": "Feb 11, 2016", 
         "id": 5, 
         "vid": null, 
         "title": "Earthquake Preparedness"
       }, 
       {
-        "date": "2016-02-18", 
-        "reair": null, 
+        "date": "Feb 18, 2016", 
         "id": 6, 
         "vid": null, 
         "title": "Wrapping and Packaging"
       }, 
       {
-        "date": "2016-02-25", 
-        "reair": null, 
+        "date": "Feb 25, 2016", 
         "id": 7, 
         "vid": "f2VQCY1G3Hg", 
         "title": "Japanophiles: Jorge Cabeza Fernandez"
       }, 
       {
-        "date": "2016-03-03", 
-        "reair": null, 
+        "date": "Mar 3, 2016", 
         "id": 8, 
         "vid": "2IXvLkGLtdY", 
         "title": "Japanophiles: Pico Iyer"
       }, 
       {
-        "date": "2016-03-10", 
-        "reair": null, 
+        "date": "Mar 10, 2016", 
         "id": 9, 
         "vid": null, 
         "title": "A Season of Change"
       }, 
       {
-        "date": "2016-03-17", 
-        "reair": null, 
+        "date": "Mar 17, 2016", 
         "id": 10, 
         "vid": "UXnl2mKXn_4", 
         "title": "Okinawan Dance"
       }, 
       {
-        "date": "2016-03-24", 
-        "reair": null, 
+        "date": "Mar 24, 2016", 
         "id": 11, 
         "vid": "4kiIpeVaMC4", 
         "title": "Japanophiles: Adam Zgola"
       }, 
       {
-        "date": "2016-03-31", 
-        "reair": null, 
+        "date": "Mar 31, 2016", 
         "id": 12, 
         "vid": null, 
         "title": "Tidying Up"
       }, 
       {
-        "date": "2016-04-07", 
-        "reair": null, 
+        "date": "Apr 7, 2016", 
         "id": 13, 
         "vid": null, 
         "title": "Whiskey"
       }, 
       {
-        "date": "2016-04-14", 
-        "reair": null, 
+        "date": "Apr 14, 2016", 
         "id": 14, 
         "vid": null, 
         "title": "Quest for Perfect Skin"
       }, 
       {
-        "date": "2016-04-21", 
-        "reair": null, 
+        "date": "Apr 21, 2016", 
         "id": 15, 
         "vid": null, 
         "title": "Bladed Tools"
       }, 
       {
-        "date": "2016-04-28", 
-        "reair": null, 
+        "date": "Apr 28, 2016", 
         "id": 16, 
         "vid": null, 
         "title": "Waste and Recycling"
       }, 
       {
-        "date": "2016-05-05", 
-        "reair": null, 
+        "date": "May 5, 2016", 
         "id": 17, 
         "vid": "F3jfAH_SZbc", 
         "title": "Family Crests"
       }, 
       {
-        "date": "2016-05-12", 
-        "reair": null, 
+        "date": "May 12, 2016", 
         "id": 18, 
         "vid": null, 
         "title": "Breakfast"
       }, 
       {
-        "date": "2016-05-19", 
-        "reair": null, 
+        "date": "May 19, 2016", 
         "id": 19, 
         "vid": "g2GTqG1zEAc", 
         "title": "Footwear"
       }, 
       {
-        "date": "2016-05-26", 
-        "reair": null, 
+        "date": "May 26, 2016", 
         "id": 20, 
         "vid": "GiOQNhIRmw4", 
         "title": "Ise Jingu"
       }, 
       {
-        "date": "2016-06-02", 
-        "reair": null, 
+        "date": "Jun 2, 2016", 
         "id": 21, 
         "vid": "ecNm80FAQEI", 
         "title": "Running"
       }, 
       {
-        "date": "2016-06-09", 
-        "reair": null, 
+        "date": "Jun 9, 2016", 
         "id": 22, 
         "vid": "DTW5gKCmhOg", 
         "title": "Japanophiles: Jorge Cabeza Fernandez"
       }, 
       {
-        "date": "2016-06-16", 
-        "reair": null, 
+        "date": "Jun 16, 2016", 
         "id": 23, 
         "vid": "fR4eTQSQ5yY", 
         "title": "Emoji"
       }, 
       {
-        "date": "2016-06-23", 
-        "reair": null, 
+        "date": "Jun 23, 2016", 
         "id": 24, 
         "vid": "l25iRW_-4vI", 
         "title": "Ekiben"
       }, 
       {
-        "date": "2016-06-30", 
-        "reair": null, 
+        "date": "Jun 30, 2016", 
         "id": 25, 
         "vid": "8Wu5ziHx8O8", 
         "title": "Bicycles"
       }, 
       {
-        "date": "2016-07-07", 
-        "reair": null, 
+        "date": "Jul 7, 2016", 
         "id": 26, 
         "vid": null, 
         "title": "Kimonos"
       }, 
       {
-        "date": "2016-07-28", 
-        "reair": null, 
+        "date": "Jul 28, 2016", 
         "id": 27, 
         "vid": "RLTJIHjoo8w", 
         "title": "Kokeshi Dolls"
       }, 
       {
-        "date": "2016-08-04", 
-        "reair": null, 
+        "date": "Aug 4, 2016", 
         "id": 28, 
         "vid": "tG6tgTMzXGY", 
         "title": "Shinise"
       }, 
       {
-        "date": "2016-08-11", 
-        "reair": null, 
+        "date": "Aug 11, 2016", 
         "id": 29, 
         "vid": "wb3p8IwxhZI", 
         "title": "Japanophiles: Rezaul Karim Chowdhury"
       }, 
       {
-        "date": "2016-08-18", 
-        "reair": null, 
+        "date": "Aug 18, 2016", 
         "id": 30, 
         "vid": "u0Xxg6jNzxc", 
         "title": "Toilets"
       }, 
       {
-        "date": "2016-08-25", 
-        "reair": null, 
+        "date": "Aug 25, 2016", 
         "id": 31, 
         "vid": "T-_L-xJpx9I", 
         "title": "Bridges"
       }, 
       {
-        "date": "2016-09-01", 
-        "reair": null, 
+        "date": "Sep 1, 2016", 
         "id": 32, 
         "vid": "3d3ajninm1s", 
         "title": "A Nation of Singers"
       }, 
       {
-        "date": "2016-09-08", 
-        "reair": null, 
+        "date": "Sep 8, 2016", 
         "id": 33, 
         "vid": "JgPW4W6ystk", 
         "title": "Restoring Castles"
       }, 
       {
-        "date": "2016-09-29", 
-        "reair": null, 
+        "date": "Sep 29, 2016", 
         "id": 34, 
         "vid": "ljBx4Y1ovHk", 
         "title": "Volcanos"
       }, 
       {
-        "date": "2016-10-13", 
-        "reair": null, 
+        "date": "Oct 13, 2016", 
         "id": 35, 
         "vid": null, 
         "title": "Smells"
       }, 
       {
-        "date": "2016-10-20", 
-        "reair": null, 
+        "date": "Oct 20, 2016", 
         "id": 36, 
         "vid": "J-I3yTCOJK0", 
         "title": "Paper"
       }, 
       {
-        "date": "2016-10-27", 
-        "reair": null, 
+        "date": "Oct 27, 2016", 
         "id": 37, 
         "vid": "UXnl2mKXn_4", 
         "title": "Okinawan Dance"
       }, 
       {
-        "date": "2016-11-03", 
-        "reair": null, 
+        "date": "Nov 3, 2016", 
         "id": 38, 
         "vid": "9fo5yQdEhdw", 
         "title": "Japanaophiles: Paul Lorimer"
       }, 
       {
-        "date": "2016-11-10", 
-        "reair": null, 
+        "date": "Nov 10, 2016", 
         "id": 39, 
         "vid": null, 
         "title": "Quest for Perfect Skin"
       }, 
       {
-        "date": "2016-12-01", 
-        "reair": null, 
+        "date": "Dec 1, 2016", 
         "id": 40, 
         "vid": null, 
         "title": "Katsuobushi"
       }, 
       {
-        "date": "2016-12-08", 
-        "reair": null, 
+        "date": "Dec 8, 2016", 
         "id": 41, 
         "vid": null, 
         "title": "Day Care for Kids"
       }, 
       {
-        "date": "2016-12-15", 
-        "reair": null, 
+        "date": "Dec 15, 2016", 
         "id": 42, 
         "vid": null, 
         "title": "Sweets and Snacks"
       }, 
       {
-        "date": "2016-12-22", 
-        "reair": null, 
+        "date": "Dec 22, 2016", 
         "id": 43, 
         "vid": null, 
         "title": "Hairdressing"
       }, 
       {
-        "date": "2016-12-29", 
-        "reair": null, 
+        "date": "Dec 29, 2016", 
         "id": 44, 
         "vid": null, 
         "title": "Snow Country"
@@ -995,246 +856,211 @@
   {
     "episodes": [
       {
-        "date": "2015-01-08", 
-        "reair": null, 
+        "date": "Jan 8, 2015", 
         "id": 1, 
         "vid": null, 
         "title": "Japanophiles: Bartholomeus Greb"
       }, 
       {
-        "date": "2015-01-15", 
-        "reair": null, 
+        "date": "Jan 15, 2015", 
         "id": 2, 
         "vid": "HFbnUuYCxhU", 
         "title": "Japanophiles: Ivan Vartanian"
       }, 
       {
-        "date": "2015-01-22", 
-        "reair": null, 
+        "date": "Jan 22, 2015", 
         "id": 3, 
         "vid": null, 
         "title": "Japanophiles: Alex Bennett"
       }, 
       {
-        "date": "2015-02-05", 
-        "reair": null, 
+        "date": "Feb 5, 2015", 
         "id": 4, 
         "vid": null, 
         "title": "The Seikan Tunnel"
       }, 
       {
-        "date": "2015-02-12", 
-        "reair": null, 
+        "date": "Feb 12, 2015", 
         "id": 5, 
         "vid": null, 
         "title": "Snow Country"
       }, 
       {
-        "date": "2015-02-19", 
-        "reair": null, 
+        "date": "Feb 19, 2015", 
         "id": 6, 
         "vid": null, 
         "title": "Comedy"
       }, 
       {
-        "date": "2015-04-02", 
-        "reair": null, 
+        "date": "Apr 2, 2015", 
         "id": 7, 
         "vid": "NzIdppo_Sn4", 
         "title": "Tokyo Metropolitan Expressway"
       }, 
       {
-        "date": "2015-04-16", 
-        "reair": null, 
+        "date": "Apr 16, 2015", 
         "id": 8, 
         "vid": null, 
         "title": "A Season of Change"
       }, 
       {
-        "date": "2015-04-23", 
-        "reair": null, 
+        "date": "Apr 23, 2015", 
         "id": 9, 
         "vid": "HIvbmXejAk4", 
         "title": "Waste and Recycling"
       }, 
       {
-        "date": "2015-04-30", 
-        "reair": null, 
+        "date": "Apr 30, 2015", 
         "id": 10, 
         "vid": null, 
         "title": "Period Dramas"
       }, 
       {
-        "date": "2015-05-07", 
-        "reair": null, 
+        "date": "May 7, 2015", 
         "id": 11, 
         "vid": "GZltHRR8Pxs", 
         "title": "Weight Loss Industry"
       }, 
       {
-        "date": "2015-05-14", 
-        "reair": null, 
+        "date": "May 14, 2015", 
         "id": 12, 
         "vid": "sw9S_Ykym88", 
         "title": "Dams"
       }, 
       {
-        "date": "2015-05-28", 
-        "reair": null, 
+        "date": "May 28, 2015", 
         "id": 13, 
         "vid": "TkhpsMvcjuY", 
         "title": "Izakaya"
       }, 
       {
-        "date": "2015-06-04", 
-        "reair": null, 
+        "date": "Jun 4, 2015", 
         "id": 14, 
         "vid": null, 
         "title": "Craft Beer"
       }, 
       {
-        "date": "2015-06-11", 
-        "reair": null, 
+        "date": "Jun 11, 2015", 
         "id": 15, 
         "vid": null, 
         "title": "Fermented Foods"
       }, 
       {
-        "date": "2015-06-18", 
-        "reair": null, 
+        "date": "Jun 18, 2015", 
         "id": 16, 
         "vid": null, 
         "title": "Umbrellas"
       }, 
       {
-        "date": "2015-06-25", 
-        "reair": null, 
+        "date": "Jun 25, 2015", 
         "id": 17, 
         "vid": "vubtjt6PCl0", 
         "title": "Job Hunting"
       }, 
       {
-        "date": "2015-07-09", 
-        "reair": null, 
+        "date": "Jul 9, 2015", 
         "id": 18, 
         "vid": null, 
         "title": "Japanophiles: Amir Takahashi"
       }, 
       {
-        "date": "2015-07-16", 
-        "reair": null, 
+        "date": "Jul 16, 2015", 
         "id": 19, 
         "vid": "Tpz9qb7HQgk", 
         "title": "The English Conversation Business"
       }, 
       {
-        "date": "2015-07-23", 
-        "reair": null, 
+        "date": "Jul 23, 2015", 
         "id": 20, 
         "vid": null, 
         "title": "English at School"
       }, 
       {
-        "date": "2015-08-06", 
-        "reair": null, 
+        "date": "Aug 6, 2015", 
         "id": 21, 
         "vid": "udCByvNBegA", 
         "title": "Shrine & Temple Carpenters"
       }, 
       {
-        "date": "2015-08-13", 
-        "reair": null, 
+        "date": "Aug 13, 2015", 
         "id": 22, 
         "vid": "O5oNOxoOlzo", 
         "title": "Bunraku"
       }, 
       {
-        "date": "2015-09-03", 
-        "reair": null, 
+        "date": "Sep 3, 2015", 
         "id": 23, 
         "vid": "1ml_DN9Q3l8", 
         "title": "Kids' Summer Holidays"
       }, 
       {
-        "date": "2015-09-10", 
-        "reair": null, 
+        "date": "Sep 10, 2015", 
         "id": 24, 
         "vid": null, 
         "title": "Swimming"
       }, 
       {
-        "date": "2015-09-17", 
-        "reair": null, 
+        "date": "Sep 17, 2015", 
         "id": 25, 
         "vid": null, 
         "title": "Haunted Houses"
       }, 
       {
-        "date": "2015-10-01", 
-        "reair": null, 
+        "date": "Oct 1, 2015", 
         "id": 26, 
         "vid": null, 
         "title": "Onsen"
       }, 
       {
-        "date": "2015-10-08", 
-        "reair": null, 
+        "date": "Oct 8, 2015", 
         "id": 27, 
         "vid": "eJYwHjFKJ7g", 
         "title": "Japanophiles: Andrew Mancabelli"
       }, 
       {
-        "date": "2015-10-15", 
-        "reair": null, 
+        "date": "Oct 15, 2015", 
         "id": 28, 
         "vid": null, 
         "title": "Cameras"
       }, 
       {
-        "date": "2015-10-22", 
-        "reair": null, 
+        "date": "Oct 22, 2015", 
         "id": 29, 
         "vid": null, 
         "title": "Wrapping and Packaging"
       }, 
       {
-        "date": "2015-11-12", 
-        "reair": null, 
+        "date": "Nov 12, 2015", 
         "id": 30, 
         "vid": "PlWqwo_kclE", 
         "title": "Tokyo Housing"
       }, 
       {
-        "date": "2015-11-19", 
-        "reair": null, 
+        "date": "Nov 19, 2015", 
         "id": 31, 
         "vid": "4kiIpeVaMC4", 
         "title": "Japanophiles: Adam Zgola"
       }, 
       {
-        "date": "2015-11-26", 
-        "reair": null, 
+        "date": "Nov 26, 2015", 
         "id": 32, 
         "vid": null, 
         "title": "Kombu"
       }, 
       {
-        "date": "2015-12-03", 
-        "reair": null, 
+        "date": "Dec 3, 2015", 
         "id": 33, 
         "vid": null, 
         "title": "Hotels and Inns"
       }, 
       {
-        "date": "2015-12-10", 
-        "reair": null, 
+        "date": "Dec 10, 2015", 
         "id": 34, 
         "vid": "TZXNTWcsHmk", 
         "title": "Tidying Up"
       }, 
       {
-        "date": "2015-12-17", 
-        "reair": null, 
+        "date": "Dec 17, 2015", 
         "id": 35, 
         "vid": "eY_d-RRqsfk", 
         "title": "Mt. Takao"
@@ -1245,281 +1071,241 @@
   {
     "episodes": [
       {
-        "date": "2014-01-09", 
-        "reair": null, 
+        "date": "Jan 9, 2014", 
         "id": 1, 
         "vid": null, 
         "title": "Persimmons"
       }, 
       {
-        "date": "2014-01-16", 
-        "reair": null, 
+        "date": "Jan 16, 2014", 
         "id": 2, 
         "vid": "R2ED8Ao9vDE", 
         "title": "Nighttime Scenery"
       }, 
       {
-        "date": "2014-01-23", 
-        "reair": null, 
+        "date": "Jan 23, 2014", 
         "id": 3, 
         "vid": "GiOQNhIRmw4", 
         "title": "Ise Jingu"
       }, 
       {
-        "date": "2014-01-30", 
-        "reair": null, 
+        "date": "Jan 30, 2014", 
         "id": 4, 
         "vid": null, 
         "title": "K-cars"
       }, 
       {
-        "date": "2014-02-13", 
-        "reair": null, 
+        "date": "Feb 13, 2014", 
         "id": 5, 
         "vid": null, 
         "title": "Japanophiles: Nancy Singleton Hachisu"
       }, 
       {
-        "date": "2014-02-20", 
-        "reair": null, 
+        "date": "Feb 20, 2014", 
         "id": 6, 
         "vid": null, 
         "title": "Japanophiles: Chris Hart"
       }, 
       {
-        "date": "2014-02-27", 
-        "reair": null, 
+        "date": "Feb 27, 2014", 
         "id": 7, 
         "vid": null, 
         "title": "Japanophiles: Rogier Uitenboogaart"
       }, 
       {
-        "date": "2014-03-06", 
-        "reair": null, 
+        "date": "Mar 6, 2014", 
         "id": 8, 
         "vid": null, 
         "title": "Railways"
       }, 
       {
-        "date": "2014-03-13", 
-        "reair": null, 
+        "date": "Mar 13, 2014", 
         "id": 9, 
         "vid": null, 
         "title": "Pianos"
       }, 
       {
-        "date": "2014-03-20", 
-        "reair": null, 
+        "date": "Mar 20, 2014", 
         "id": 10, 
         "vid": null, 
         "title": "Squid"
       }, 
       {
-        "date": "2014-04-03", 
-        "reair": null, 
+        "date": "Apr 3, 2014", 
         "id": 11, 
         "vid": null, 
         "title": "Bathhouses"
       }, 
       {
-        "date": "2014-04-10", 
-        "reair": null, 
+        "date": "Apr 10, 2014", 
         "id": 12, 
         "vid": null, 
         "title": "Ramen"
       }, 
       {
-        "date": "2014-04-17", 
-        "reair": null, 
+        "date": "Apr 17, 2014", 
         "id": 13, 
         "vid": "WGDzoILwPp4", 
         "title": "Mt. Fuji"
       }, 
       {
-        "date": "2014-04-24", 
-        "reair": null, 
+        "date": "Apr 24, 2014", 
         "id": 14, 
         "vid": "GCNY-aFUV0g", 
         "title": "Shogi"
       }, 
       {
-        "date": "2014-05-01", 
-        "reair": null, 
+        "date": "May 1, 2014", 
         "id": 15, 
         "vid": null, 
         "title": "Cherry Trees"
       }, 
       {
-        "date": "2014-05-08", 
-        "reair": null, 
+        "date": "May 8, 2014", 
         "id": 16, 
         "vid": "UJ7dJIwgSBY", 
         "title": "Akihabara"
       }, 
       {
-        "date": "2014-05-15", 
-        "reair": null, 
+        "date": "May 15, 2014", 
         "id": 17, 
         "vid": null, 
         "title": "Wagashi"
       }, 
       {
-        "date": "2014-05-22", 
-        "reair": null, 
+        "date": "May 22, 2014", 
         "id": 18, 
         "vid": null, 
         "title": "Ninja"
       }, 
       {
-        "date": "2014-05-29", 
-        "reair": null, 
+        "date": "May 29, 2014", 
         "id": 19, 
         "vid": "EzYRY7cj464", 
         "title": "Rice"
       }, 
       {
-        "date": "2014-06-05", 
-        "reair": null, 
+        "date": "Jun 5, 2014", 
         "id": 20, 
         "vid": "F2bdqaAM9GE", 
         "title": "Castles"
       }, 
       {
-        "date": "2014-07-03", 
-        "reair": null, 
+        "date": "Jul 3, 2014", 
         "id": 21, 
         "vid": "_3_YJXKO_TY", 
         "title": "Japanophiles: Elizabeth Suzuki"
       }, 
       {
-        "date": "2014-07-10", 
-        "reair": null, 
+        "date": "Jul 10, 2014", 
         "id": 22, 
         "vid": null, 
         "title": "Japanophiles: Everett Kennedy Brown"
       }, 
       {
-        "date": "2014-07-17", 
-        "reair": null, 
+        "date": "Jul 17, 2014", 
         "id": 23, 
         "vid": null, 
         "title": "Japanophiles: Carolin Eckhardt"
       }, 
       {
-        "date": "2014-08-07", 
-        "reair": null, 
+        "date": "Aug 7, 2014", 
         "id": 24, 
         "vid": null, 
         "title": "Karaoke Boxes"
       }, 
       {
-        "date": "2014-08-14", 
-        "reair": null, 
+        "date": "Aug 14, 2014", 
         "id": 25, 
         "vid": null, 
         "title": "Bento"
       }, 
       {
-        "date": "2014-08-21", 
-        "reair": null, 
+        "date": "Aug 21, 2014", 
         "id": 26, 
         "vid": "fmxW59spdss", 
         "title": "Bamboo"
       }, 
       {
-        "date": "2014-09-04", 
-        "reair": null, 
+        "date": "Sep 4, 2014", 
         "id": 27, 
         "vid": null, 
         "title": "Taiko Drums"
       }, 
       {
-        "date": "2014-09-11", 
-        "reair": null, 
+        "date": "Sep 11, 2014", 
         "id": 28, 
         "vid": null, 
         "title": "Tsukiji Market"
       }, 
       {
-        "date": "2014-09-18", 
-        "reair": null, 
+        "date": "Sep 18, 2014", 
         "id": 29, 
         "vid": "nLKRzE2-lF4", 
         "title": "Festivals"
       }, 
       {
-        "date": "2014-09-25", 
-        "reair": null, 
+        "date": "Sep 25, 2014", 
         "id": 30, 
         "vid": null, 
         "title": "Japanese Gardens"
       }, 
       {
-        "date": "2014-10-02", 
-        "reair": null, 
+        "date": "Oct 2, 2014", 
         "id": 31, 
         "vid": "qI00kkijYOU", 
         "title": "Origami"
       }, 
       {
-        "date": "2014-10-09", 
-        "reair": null, 
+        "date": "Oct 9, 2014", 
         "id": 32, 
         "vid": null, 
         "title": "Buddhist Statues"
       }, 
       {
-        "date": "2014-10-16", 
-        "reair": null, 
+        "date": "Oct 16, 2014", 
         "id": 33, 
         "vid": "QV9MtwD2MdU", 
         "title": "Yokai"
       }, 
       {
-        "date": "2014-10-23", 
-        "reair": null, 
+        "date": "Oct 23, 2014", 
         "id": 34, 
         "vid": "oSFV-kbOv38", 
         "title": "Shinkansen"
       }, 
       {
-        "date": "2014-11-06", 
-        "reair": null, 
+        "date": "Nov 6, 2014", 
         "id": 35, 
         "vid": null, 
         "title": "Lessons for Life"
       }, 
       {
-        "date": "2014-11-13", 
-        "reair": null, 
+        "date": "Nov 13, 2014", 
         "id": 36, 
         "vid": "4g1hj6XgOpM", 
         "title": "Robots"
       }, 
       {
-        "date": "2014-11-20", 
-        "reair": null, 
+        "date": "Nov 20, 2014", 
         "id": 37, 
         "vid": "2nuT5l5iRLw", 
         "title": "Sports Days"
       }, 
       {
-        "date": "2014-12-04", 
-        "reair": null, 
+        "date": "Dec 4, 2014", 
         "id": 38, 
         "vid": null, 
         "title": "Bonsai"
       }, 
       {
-        "date": "2014-12-11", 
-        "reair": null, 
+        "date": "Dec 11, 2014", 
         "id": 39, 
         "vid": "jtkTX4ul6-k", 
         "title": "Sushi"
       }, 
       {
-        "date": "2014-12-18", 
-        "reair": null, 
+        "date": "Dec 18, 2014", 
         "id": 40, 
         "vid": null, 
         "title": "Geisha"
@@ -1530,281 +1316,241 @@
   {
     "episodes": [
       {
-        "date": "2013-01-10", 
-        "reair": null, 
+        "date": "Jan 10, 2013", 
         "id": 1, 
         "vid": "9FgcxRmddQ0", 
         "title": "Sumo"
       }, 
       {
-        "date": "2013-01-17", 
-        "reair": null, 
+        "date": "Jan 17, 2013", 
         "id": 2, 
         "vid": "ZCmu3d1XDC8", 
         "title": "Bathroom Scales"
       }, 
       {
-        "date": "2013-01-24", 
-        "reair": null, 
+        "date": "Jan 24, 2013", 
         "id": 3, 
         "vid": null, 
         "title": "Enka"
       }, 
       {
-        "date": "2013-01-31", 
-        "reair": null, 
+        "date": "Jan 31, 2013", 
         "id": 4, 
         "vid": "vYzQNgIwqgo", 
         "title": "Small Factories"
       }, 
       {
-        "date": "2013-02-07", 
-        "reair": null, 
+        "date": "Feb 7, 2013", 
         "id": 5, 
         "vid": null, 
         "title": "Japanophiles: Azby Brown"
       }, 
       {
-        "date": "2013-02-14", 
-        "reair": null, 
+        "date": "Feb 14, 2013", 
         "id": 6, 
         "vid": null, 
         "title": "Japanophiles: Ernst Seiler"
       }, 
       {
-        "date": "2013-02-21", 
-        "reair": null, 
+        "date": "Feb 21, 2013", 
         "id": 7, 
         "vid": null, 
         "title": "Japanophiles: Yasokichi Konishiki"
       }, 
       {
-        "date": "2013-03-07", 
-        "reair": null, 
+        "date": "Mar 7, 2013", 
         "id": 8, 
         "vid": null, 
         "title": "Ume Plums"
       }, 
       {
-        "date": "2013-03-14", 
-        "reair": null, 
+        "date": "Mar 14, 2013", 
         "id": 9, 
         "vid": "CIJyRa10otE", 
         "title": "Storehouses"
       }, 
       {
-        "date": "2013-03-21", 
-        "reair": null, 
+        "date": "Mar 21, 2013", 
         "id": 10, 
         "vid": "QsySWEZHX4w", 
         "title": "Wagyu"
       }, 
       {
-        "date": "2013-04-04", 
-        "reair": null, 
+        "date": "Apr 4, 2013", 
         "id": 11, 
         "vid": "Xratt7cs1dE", 
         "title": "Uniforms"
       }, 
       {
-        "date": "2013-04-11", 
-        "reair": null, 
+        "date": "Apr 11, 2013", 
         "id": 12, 
         "vid": null, 
         "title": "Rice Cookers"
       }, 
       {
-        "date": "2013-04-18", 
-        "reair": null, 
+        "date": "Apr 18, 2013", 
         "id": 13, 
         "vid": "f7ldZ28GPro", 
         "title": "Burial Mounds"
       }, 
       {
-        "date": "2013-04-25", 
-        "reair": null, 
+        "date": "Apr 25, 2013", 
         "id": 14, 
         "vid": "pgPxgJMW5A8", 
         "title": "Stationery"
       }, 
       {
-        "date": "2013-05-02", 
-        "reair": null, 
+        "date": "May 2, 2013", 
         "id": 15, 
         "vid": "qwIrbZFuefE", 
         "title": "Bread"
       }, 
       {
-        "date": "2013-05-09", 
-        "reair": null, 
+        "date": "May 9, 2013", 
         "id": 16, 
         "vid": "uAYsm0r28F8", 
         "title": "Pine Trees"
       }, 
       {
-        "date": "2013-05-16", 
-        "reair": null, 
+        "date": "May 16, 2013", 
         "id": 17, 
         "vid": null, 
         "title": "Parcel Delivery"
       }, 
       {
-        "date": "2013-05-23", 
-        "reair": null, 
+        "date": "May 23, 2013", 
         "id": 18, 
         "vid": "qCX_mC2WBvU", 
         "title": "Pro Wrestling"
       }, 
       {
-        "date": "2013-05-30", 
-        "reair": null, 
+        "date": "May 30, 2013", 
         "id": 19, 
         "vid": "RrXcuLj8IPU", 
         "title": "Strawberries"
       }, 
       {
-        "date": "2013-06-13", 
-        "reair": null, 
+        "date": "Jun 13, 2013", 
         "id": 20, 
         "vid": null, 
         "title": "Calculators"
       }, 
       {
-        "date": "2013-06-27", 
-        "reair": null, 
+        "date": "Jun 27, 2013", 
         "id": 21, 
         "vid": "wvQ8ZEI-6ug", 
         "title": "Television"
       }, 
       {
-        "date": "2013-07-04", 
-        "reair": null, 
+        "date": "Jul 4, 2013", 
         "id": 22, 
         "vid": null, 
         "title": "Lake Biwa"
       }, 
       {
-        "date": "2013-07-11", 
-        "reair": null, 
+        "date": "Jul 11, 2013", 
         "id": 23, 
         "vid": null, 
         "title": "Expressways"
       }, 
       {
-        "date": "2013-07-18", 
-        "reair": null, 
+        "date": "Jul 18, 2013", 
         "id": 24, 
         "vid": "KHk9tUhRWrY", 
         "title": "Beer"
       }, 
       {
-        "date": "2013-08-01", 
-        "reair": null, 
+        "date": "Aug 1, 2013", 
         "id": 25, 
         "vid": "M30CfY-Md3U", 
         "title": "Japanophiles: Mike Harris"
       }, 
       {
-        "date": "2013-08-08", 
-        "reair": null, 
+        "date": "Aug 8, 2013", 
         "id": 26, 
         "vid": null, 
         "title": "Japanophiles: Karl Bengs"
       }, 
       {
-        "date": "2013-08-15", 
-        "reair": null, 
+        "date": "Aug 15, 2013", 
         "id": 27, 
         "vid": null, 
         "title": "Japanophiles: Kenny Omega"
       }, 
       {
-        "date": "2013-09-05", 
-        "reair": null, 
+        "date": "Sep 5, 2013", 
         "id": 28, 
         "vid": "0JWQGcvrASo", 
         "title": "Shakuhachi"
       }, 
       {
-        "date": "2013-09-12", 
-        "reair": null, 
+        "date": "Sep 12, 2013", 
         "id": 29, 
         "vid": null, 
         "title": "Convenience Stores"
       }, 
       {
-        "date": "2013-09-19", 
-        "reair": null, 
+        "date": "Sep 19, 2013", 
         "id": 30, 
         "vid": null, 
         "title": "Used Books"
       }, 
       {
-        "date": "2013-10-03", 
-        "reair": null, 
+        "date": "Oct 3, 2013", 
         "id": 31, 
         "vid": "HqJ3zsg4FBc", 
         "title": "Women's Nylons"
       }, 
       {
-        "date": "2013-10-10", 
-        "reair": null, 
+        "date": "Oct 10, 2013", 
         "id": 32, 
         "vid": null, 
         "title": "Remote Islands"
       }, 
       {
-        "date": "2013-10-17", 
-        "reair": null, 
+        "date": "Oct 17, 2013", 
         "id": 33, 
         "vid": null, 
         "title": "Characters and Mascots"
       }, 
       {
-        "date": "2013-10-24", 
-        "reair": null, 
+        "date": "Oct 24, 2013", 
         "id": 34, 
         "vid": null, 
         "title": "Grapes"
       }, 
       {
-        "date": "2013-11-07", 
-        "reair": null, 
+        "date": "Nov 7, 2013", 
         "id": 35, 
         "vid": null, 
         "title": "Makeup"
       }, 
       {
-        "date": "2013-11-14", 
-        "reair": null, 
+        "date": "Nov 14, 2013", 
         "id": 36, 
         "vid": null, 
         "title": "Ukiyo-e"
       }, 
       {
-        "date": "2013-11-21", 
-        "reair": null, 
+        "date": "Nov 21, 2013", 
         "id": 37, 
         "vid": null, 
         "title": "Buses"
       }, 
       {
-        "date": "2013-12-05", 
-        "reair": null, 
+        "date": "Dec 5, 2013", 
         "id": 38, 
         "vid": "3t46PJ7B1jU", 
         "title": "Parties and Gatherings"
       }, 
       {
-        "date": "2013-12-12", 
-        "reair": null, 
+        "date": "Dec 12, 2013", 
         "id": 39, 
         "vid": null, 
         "title": "Conveyor Belt Sushi"
       }, 
       {
-        "date": "2013-12-19", 
-        "reair": null, 
+        "date": "Dec 19, 2013", 
         "id": 40, 
         "vid": "LpQ_HXeyT7M", 
         "title": "Pets"
@@ -1815,295 +1561,253 @@
   {
     "episodes": [
       {
-        "date": "2012-01-12", 
-        "reair": null, 
+        "date": "Jan 12, 2012", 
         "id": 1, 
         "vid": "FrxT4Wi1s6k", 
         "title": "Ekiden"
       }, 
       {
-        "date": "2012-01-19", 
-        "reair": null, 
+        "date": "Jan 19, 2012", 
         "id": 2, 
         "vid": null, 
         "title": "Batteries"
       }, 
       {
-        "date": "2012-01-26", 
-        "reair": null, 
+        "date": "Jan 26, 2012", 
         "id": 3, 
         "vid": "uNAbHqlMcIE", 
         "title": "Cafes"
       }, 
       {
-        "date": "2012-02-02", 
-        "reair": null, 
+        "date": "Feb 2, 2012", 
         "id": 4, 
         "vid": "HlbH66tGtAU", 
         "title": "Hot Water Bottles and Pocket Warmers"
       }, 
       {
-        "date": "2012-02-09", 
-        "reair": null, 
+        "date": "Feb 9, 2012", 
         "id": 5, 
         "vid": null, 
         "title": "Ikebana"
       }, 
       {
-        "date": "2012-02-16", 
-        "reair": null, 
+        "date": "Feb 16, 2012", 
         "id": 6, 
         "vid": null, 
         "title": "Excavators"
       }, 
       {
-        "date": "2012-02-23", 
-        "reair": null, 
+        "date": "Feb 23, 2012", 
         "id": 7, 
         "vid": null, 
         "title": "Woods & Forests"
       }, 
       {
-        "date": "2012-03-01", 
-        "reair": null, 
+        "date": "Mar 1, 2012", 
         "id": 8, 
         "vid": "y0C1WXyiqCs", 
         "title": "Japanophiles: Dhugal Lindsay"
       }, 
       {
-        "date": "2012-03-08", 
-        "reair": null, 
+        "date": "Mar 8, 2012", 
         "id": 9, 
         "vid": "y0C1WXyiqCs", 
         "title": "Japanophiles: Richard Emmert"
       }, 
       {
-        "date": "2012-03-15", 
-        "reair": null, 
+        "date": "Mar 15, 2012", 
         "id": 10, 
         "vid": "FrxT4Wi1s6k", 
         "title": "Japanophiles: Art Lee"
       }, 
       {
-        "date": "2012-03-29", 
-        "reair": null, 
+        "date": "Mar 29, 2012", 
         "id": 11, 
         "vid": "d6lgNQRasfs", 
         "title": "Japanophiles: Philip Harper"
       }, 
       {
-        "date": "2012-04-05", 
-        "reair": null, 
+        "date": "Apr 5, 2012", 
         "id": 12, 
         "vid": "FP47NyeG4wk", 
         "title": "Kabuki"
       }, 
       {
-        "date": "2012-04-12", 
-        "reair": null, 
+        "date": "Apr 12, 2012", 
         "id": 13, 
         "vid": null, 
         "title": "Wild Vegetables"
       }, 
       {
-        "date": "2012-04-19", 
-        "reair": null, 
+        "date": "Apr 19, 2012", 
         "id": 14, 
         "vid": null, 
         "title": "Horses"
       }, 
       {
-        "date": "2012-04-26", 
-        "reair": null, 
+        "date": "Apr 26, 2012", 
         "id": 15, 
         "vid": "9zZ2PuKL2Co", 
         "title": "Massage Chairs"
       }, 
       {
-        "date": "2012-05-03", 
-        "reair": null, 
+        "date": "May 3, 2012", 
         "id": 16, 
         "vid": null, 
         "title": "Shikoku Pilgrimage"
       }, 
       {
-        "date": "2012-05-10", 
-        "reair": null, 
+        "date": "May 10, 2012", 
         "id": 17, 
         "vid": null, 
         "title": "Regional Fast Food"
       }, 
       {
-        "date": "2012-05-17", 
-        "reair": null, 
+        "date": "May 17, 2012", 
         "id": 18, 
         "vid": "CjGZXq284G0", 
         "title": "Department Stores"
       }, 
       {
-        "date": "2012-05-24", 
-        "reair": null, 
+        "date": "May 24, 2012", 
         "id": 19, 
         "vid": null, 
         "title": "Kimonos"
       }, 
       {
-        "date": "2012-06-07", 
-        "reair": null, 
+        "date": "Jun 7, 2012", 
         "id": 20, 
         "vid": "9_9e9CfQqM8", 
         "title": "Aquariums"
       }, 
       {
-        "date": "2012-06-14", 
-        "reair": null, 
+        "date": "Jun 14, 2012", 
         "id": 21, 
         "vid": "-6P6yZJBhqE", 
         "title": "Confectionery"
       }, 
       {
-        "date": "2012-06-21", 
-        "reair": null, 
+        "date": "Jun 21, 2012", 
         "id": 22, 
         "vid": null, 
         "title": "Dolls"
       }, 
       {
-        "date": "2012-07-05", 
-        "reair": null, 
+        "date": "Jul 5, 2012", 
         "id": 23, 
         "vid": null, 
         "title": "Moss"
       }, 
       {
-        "date": "2012-07-12", 
-        "reair": null, 
+        "date": "Jul 12, 2012", 
         "id": 24, 
         "vid": "A3puTgRqZ48", 
         "title": "High School Baseball"
       }, 
       {
-        "date": "2012-07-19", 
-        "reair": null, 
+        "date": "Jul 19, 2012", 
         "id": 25, 
         "vid": null, 
         "title": "Planetariums"
       }, 
       {
-        "date": "2012-08-16", 
-        "reair": null, 
+        "date": "Aug 16, 2012", 
         "id": 26, 
         "vid": null, 
         "title": "Japanophiles: Adam Booth"
       }, 
       {
-        "date": "2012-08-23", 
-        "reair": null, 
+        "date": "Aug 23, 2012", 
         "id": 27, 
         "vid": null, 
         "title": "Japanophiles: Dave Spector"
       }, 
       {
-        "date": "2012-08-30", 
-        "reair": null, 
+        "date": "Aug 30, 2012", 
         "id": 28, 
         "vid": "-Khu7hHjiPY", 
         "title": "Japanophiles: Euan Craig"
       }, 
       {
-        "date": "2012-09-06", 
-        "reair": null, 
+        "date": "Sep 6, 2012", 
         "id": 29, 
         "vid": "2WmzbgKeoVU", 
         "title": "Shamisen"
       }, 
       {
-        "date": "2012-09-13", 
-        "reair": null, 
+        "date": "Sep 13, 2012", 
         "id": 30, 
         "vid": null, 
         "title": "Crested Ibises"
       }, 
       {
-        "date": "2012-09-20", 
-        "reair": null, 
+        "date": "Sep 20, 2012", 
         "id": 31, 
         "vid": "ziTYWqaXbNw", 
         "title": "Abalone"
       }, 
       {
-        "date": "2012-10-04", 
-        "reair": null, 
+        "date": "Oct 4, 2012", 
         "id": 32, 
         "vid": "NyTMe2jkAI8", 
         "title": "Tokyo Station"
       }, 
       {
-        "date": "2012-10-11", 
-        "reair": null, 
+        "date": "Oct 11, 2012", 
         "id": 33, 
         "vid": "imcf0PIoFdo", 
         "title": "Tokyo Skytree"
       }, 
       {
-        "date": "2012-10-18", 
-        "reair": null, 
+        "date": "Oct 18, 2012", 
         "id": 34, 
         "vid": "JQtUnfHB77k", 
         "title": "Tokyo Bay"
       }, 
       {
-        "date": "2012-11-01", 
-        "reair": null, 
+        "date": "Nov 1, 2012", 
         "id": 35, 
         "vid": "2asTAcnk83c", 
         "title": "Potatoes, Taros, and Yams"
       }, 
       {
-        "date": "2012-11-08", 
-        "reair": null, 
+        "date": "Nov 8, 2012", 
         "id": 36, 
         "vid": "gaABnATXQbY", 
         "title": "Name Seals"
       }, 
       {
-        "date": "2012-11-15", 
-        "reair": null, 
+        "date": "Nov 15, 2012", 
         "id": 37, 
         "vid": "qag8Lq3zhgo", 
         "title": "Mushrooms"
       }, 
       {
-        "date": "2012-11-22", 
-        "reair": null, 
+        "date": "Nov 22, 2012", 
         "id": 38, 
         "vid": "ev93FNJy7Ws", 
         "title": "Vending Machines"
       }, 
       {
-        "date": "2012-12-06", 
-        "reair": null, 
+        "date": "Dec 6, 2012", 
         "id": 39, 
         "vid": "Gd_ySi7mjeE", 
         "title": "Scissors"
       }, 
       {
-        "date": "2012-12-13", 
-        "reair": null, 
+        "date": "Dec 13, 2012", 
         "id": 40, 
         "vid": null, 
         "title": "Satsuma Mandarins"
       }, 
       {
-        "date": "2012-12-20", 
-        "reair": null, 
+        "date": "Dec 20, 2012", 
         "id": 41, 
         "vid": "m0crfRAGRFY", 
         "title": "Gift Giving"
       }, 
       {
-        "date": "2012-06-27", 
-        "reair": null, 
+        "date": "Jun 27, 2012", 
         "id": 42, 
         "vid": "wBaibyLBE0o", 
         "title": "Mapping Kyoto Streets"
@@ -2114,302 +1818,259 @@
   {
     "episodes": [
       {
-        "date": "2011-01-13", 
-        "reair": null, 
+        "date": "Jan 13, 2011", 
         "id": 1, 
         "vid": "4CSdNPZiztE", 
         "title": "Mochi Rice Cake"
       }, 
       {
-        "date": "2011-01-20", 
-        "reair": null, 
+        "date": "Jan 20, 2011", 
         "id": 2, 
         "vid": "NjSqqcIHyvY", 
         "title": "Watches and Clocks"
       }, 
       {
-        "date": "2011-01-27", 
-        "reair": null, 
+        "date": "Jan 27, 2011", 
         "id": 3, 
         "vid": "Tu1qWVUX-Bs", 
         "title": "Fugu Blowfish"
       }, 
       {
-        "date": "2011-02-03", 
-        "reair": null, 
+        "date": "Feb 3, 2011", 
         "id": 4, 
         "vid": "sYPz7baqC4Y", 
         "title": "Haneda Airport"
       }, 
       {
-        "date": "2011-02-10", 
-        "reair": null, 
+        "date": "Feb 10, 2011", 
         "id": 5, 
         "vid": "UWoOnXQsQvE", 
         "title": "Kagura Dances"
       }, 
       {
-        "date": "2011-02-17", 
-        "reair": null, 
+        "date": "Feb 17, 2011", 
         "id": 6, 
         "vid": "eYu9WCyb5Ow", 
         "title": "Snow"
       }, 
       {
-        "date": "2011-03-03", 
-        "reair": null, 
+        "date": "Mar 3, 2011", 
         "id": 7, 
         "vid": "Yf8rygYdAPU", 
         "title": "Pollen Allergy"
       }, 
       {
-        "date": "2011-03-10", 
-        "reair": null, 
+        "date": "Mar 10, 2011", 
         "id": 8, 
         "vid": "4AqLCg0jU4s", 
         "title": "Sashimono Woodwork"
       }, 
       {
-        "date": "2011-04-07", 
-        "reair": null, 
+        "date": "Apr 7, 2011", 
         "id": 9, 
-        "vid": null, 
+        "vid": "BEl0snuRBSk", 
         "title": "Cranes"
       }, 
       {
-        "date": "2011-04-14", 
-        "reair": null, 
+        "date": "Apr 14, 2011", 
         "id": 10, 
         "vid": "hvsqoF6tHyI", 
         "title": "Kitchen Knives"
       }, 
       {
-        "date": "2011-04-21", 
-        "reair": null, 
+        "date": "Apr 21, 2011", 
         "id": 11, 
         "vid": "ReZxw5mKqpE", 
         "title": "Fishing"
       }, 
       {
-        "date": "2011-04-28", 
-        "reair": null, 
+        "date": "Apr 28, 2011", 
         "id": 12, 
         "vid": "T5fDUcWn2Dc", 
         "title": "Armour"
       }, 
       {
-        "date": "2011-05-05", 
-        "reair": null, 
+        "date": "May 5, 2011", 
         "id": 13, 
         "vid": "nbLpoSXnJW0", 
         "title": "Judo"
       }, 
       {
-        "date": "2011-05-12", 
-        "reair": null, 
+        "date": "May 12, 2011", 
         "id": 14, 
         "vid": "cT8SojrLBp0", 
         "title": "The Life of Taro Okamoto"
       }, 
       {
-        "date": "2011-05-19", 
-        "reair": null, 
+        "date": "May 19, 2011", 
         "id": 15, 
         "vid": "k0xshXS5-X0", 
         "title": "The Life of Osamu Dazai"
       }, 
       {
-        "date": "2011-05-26", 
-        "reair": null, 
+        "date": "May 26, 2011", 
         "id": 16, 
         "vid": null, 
         "title": "The Life of Kenzo Tange"
       }, 
       {
-        "date": "2011-06-02", 
-        "reair": null, 
+        "date": "Jun 2, 2011", 
         "id": 17, 
         "vid": "_onlKgAlZ4w", 
         "title": "The Life of Hideko Maehata"
       }, 
       {
-        "date": "2011-06-09", 
-        "reair": null, 
+        "date": "Jun 9, 2011", 
         "id": 18, 
         "vid": "culcenqXh1s", 
         "title": "Toilets"
       }, 
       {
-        "date": "2011-06-16", 
-        "reair": null, 
+        "date": "Jun 16, 2011", 
         "id": 19, 
         "vid": null, 
         "title": "Lifts"
       }, 
       {
-        "date": "2011-06-23", 
-        "reair": null, 
+        "date": "Jun 23, 2011", 
         "id": 20, 
         "vid": null, 
         "title": "Motorcycles"
       }, 
       {
-        "date": "2011-06-30", 
-        "reair": null, 
+        "date": "Jun 30, 2011", 
         "id": 21, 
         "vid": "dgYeXXGYWtg", 
         "title": "Unagi Eel"
       }, 
       {
-        "date": "2011-07-07", 
-        "reair": null, 
+        "date": "Jul 7, 2011", 
         "id": 22, 
         "vid": "p2f_9ElBRQo", 
         "title": "Japanophiles: Ilan Yanizky"
       }, 
       {
-        "date": "2011-07-14", 
-        "reair": null, 
+        "date": "Jul 14, 2011", 
         "id": 23, 
         "vid": "NFfgQiFK5uc", 
         "title": "Japanophiles: Silvain Guignard"
       }, 
       {
-        "date": "2011-07-21", 
-        "reair": null, 
+        "date": "Jul 21, 2011", 
         "id": 24, 
         "vid": "96elMKnDrJ4", 
         "title": "Japanophiles: Stephane Danton"
       }, 
       {
-        "date": "2011-07-28", 
-        "reair": null, 
+        "date": "Jul 28, 2011", 
         "id": 25, 
         "vid": null, 
         "title": "Japanophiles: Dorothy Feibleman"
       }, 
       {
-        "date": "2011-08-18", 
-        "reair": null, 
+        "date": "Aug 18, 2011", 
         "id": 26, 
         "vid": "YULgJf_48FQ", 
         "title": "Plastic Food Samples"
       }, 
       {
-        "date": "2011-08-25", 
-        "reair": null, 
+        "date": "Aug 25, 2011", 
         "id": 27, 
         "vid": "6wHYvACzncs", 
         "title": "Insects"
       }, 
       {
-        "date": "2011-09-01", 
-        "reair": null, 
+        "date": "Sep 1, 2011", 
         "id": 28, 
         "vid": null, 
         "title": "Traditional Japanese Mathematics"
       }, 
       {
-        "date": "2011-09-08", 
-        "reair": null, 
+        "date": "Sep 8, 2011", 
         "id": 29, 
         "vid": "8Wu5ziHx8O8", 
         "title": "Bicycles"
       }, 
       {
-        "date": "2011-09-15", 
-        "reair": null, 
+        "date": "Sep 15, 2011", 
         "id": 30, 
         "vid": "dibmVofPPmE", 
         "title": "Chusonji"
       }, 
       {
-        "date": "2011-09-29", 
-        "reair": null, 
+        "date": "Sep 29, 2011", 
         "id": 31, 
         "vid": "ZUmkY7uie9s", 
         "title": "Seaweed"
       }, 
       {
-        "date": "2011-10-06", 
-        "reair": null, 
+        "date": "Oct 6, 2011", 
         "id": 32, 
         "vid": "OFhp2eg7f1Y", 
         "title": "Charcoal"
       }, 
       {
-        "date": "2011-10-13", 
-        "reair": null, 
+        "date": "Oct 13, 2011", 
         "id": 33, 
         "vid": "GakLpHdZNHU", 
         "title": "Rain"
       }, 
       {
-        "date": "2011-10-20", 
-        "reair": null, 
+        "date": "Oct 20, 2011", 
         "id": 34, 
         "vid": null, 
         "title": "Golf"
       }, 
       {
-        "date": "2011-10-27", 
-        "reair": null, 
+        "date": "Oct 27, 2011", 
         "id": 35, 
         "vid": "3jx_kuMJuH4", 
         "title": "Shipbuilding"
       }, 
       {
-        "date": "2011-11-03", 
-        "reair": null, 
+        "date": "Nov 3, 2011", 
         "id": 36, 
         "vid": "99aIBVGkgzY", 
         "title": "Japanophiles: Bruce Huebner"
       }, 
       {
-        "date": "2011-11-10", 
-        "reair": null, 
+        "date": "Nov 10, 2011", 
         "id": 37, 
         "vid": "nCc8kSQqyXU", 
         "title": "Japanophiles: Noelke Muho"
       }, 
       {
-        "date": "2011-11-17", 
-        "reair": null, 
+        "date": "Nov 17, 2011", 
         "id": 38, 
         "vid": null, 
         "title": "Japanophiles: Matt Alt"
       }, 
       {
-        "date": "2011-11-24", 
-        "reair": null, 
+        "date": "Nov 24, 2011", 
         "id": 39, 
         "vid": null, 
         "title": "Karaoke"
       }, 
       {
-        "date": "2011-12-01", 
-        "reair": null, 
+        "date": "Dec 1, 2011", 
         "id": 40, 
         "vid": "ZNNKI7FxxBc", 
         "title": "Holidays"
       }, 
       {
-        "date": "2011-12-08", 
-        "reair": null, 
+        "date": "Dec 8, 2011", 
         "id": 41, 
         "vid": "k-3Hnc7BSYA", 
         "title": "Red Sea Bream"
       }, 
       {
-        "date": "2011-12-15", 
-        "reair": null, 
+        "date": "Dec 15, 2011", 
         "id": 42, 
         "vid": "NgiFQnep0qI", 
         "title": "Shopping Streets"
       }, 
       {
-        "date": "2011-12-22", 
-        "reair": null, 
+        "date": "Dec 22, 2011", 
         "id": 43, 
         "vid": "nHX0BIQcs9E", 
         "title": "Chickens and Eggs"
@@ -2420,302 +2081,259 @@
   {
     "episodes": [
       {
-        "date": "2010-01-08", 
-        "reair": null, 
+        "date": "Jan 8, 2010", 
         "id": 1, 
         "vid": null, 
         "title": "Sentou"
       }, 
       {
-        "date": "2010-01-15", 
-        "reair": null, 
+        "date": "Jan 15, 2010", 
         "id": 2, 
         "vid": "YZQsh43v-Gc", 
         "title": "Karuta"
       }, 
       {
-        "date": "2010-01-22", 
-        "reair": null, 
+        "date": "Jan 22, 2010", 
         "id": 3, 
         "vid": null, 
         "title": "Taiko"
       }, 
       {
-        "date": "2010-01-29", 
-        "reair": null, 
+        "date": "Jan 29, 2010", 
         "id": 4, 
         "vid": "ig07I7yDfWw", 
         "title": "Cram School"
       }, 
       {
-        "date": "2010-02-05", 
-        "reair": null, 
+        "date": "Feb 5, 2010", 
         "id": 5, 
         "vid": "cMuL6O3qx28", 
         "title": "Light"
       }, 
       {
-        "date": "2010-02-12", 
-        "reair": null, 
+        "date": "Feb 12, 2010", 
         "id": 6, 
         "vid": "YB0rF_AoT3Y", 
         "title": "Footwear"
       }, 
       {
-        "date": "2010-02-19", 
-        "reair": null, 
+        "date": "Feb 19, 2010", 
         "id": 7, 
         "vid": null, 
         "title": "Monkey"
       }, 
       {
-        "date": "2010-02-26", 
-        "reair": null, 
+        "date": "Feb 26, 2010", 
         "id": 8, 
         "vid": "6O2GO9CSyWk", 
         "title": "Soy Sauce"
       }, 
       {
-        "date": "2010-03-05", 
-        "reair": null, 
+        "date": "Mar 5, 2010", 
         "id": 9, 
         "vid": null, 
         "title": "Tuna"
       }, 
       {
-        "date": "2010-03-12", 
-        "reair": null, 
+        "date": "Mar 12, 2010", 
         "id": 10, 
         "vid": "tVAMw2h-OnM", 
         "title": "Fusuma"
       }, 
       {
-        "date": "2010-03-19", 
-        "reair": null, 
+        "date": "Mar 19, 2010", 
         "id": 11, 
         "vid": "Cg8roFfcMQo", 
         "title": "Pearl"
       }, 
       {
-        "date": "2010-04-02", 
-        "reair": null, 
+        "date": "Apr 2, 2010", 
         "id": 12, 
         "vid": "slKs_ptYA8Y", 
         "title": "Todaiji"
       }, 
       {
-        "date": "2010-04-09", 
-        "reair": null, 
+        "date": "Apr 9, 2010", 
         "id": 13, 
         "vid": "NZSOOLSf2sA", 
         "title": "School Lunches"
       }, 
       {
-        "date": "2010-04-16", 
-        "reair": null, 
+        "date": "Apr 16, 2010", 
         "id": 14, 
         "vid": null, 
         "title": "Geiko and Maiko"
       }, 
       {
-        "date": "2010-04-23", 
-        "reair": null, 
+        "date": "Apr 23, 2010", 
         "id": 15, 
         "vid": null, 
         "title": "Robots"
       }, 
       {
-        "date": "2010-04-30", 
-        "reair": null, 
+        "date": "Apr 30, 2010", 
         "id": 16, 
         "vid": "cLI2If3Z330", 
         "title": "Wasabi"
       }, 
       {
-        "date": "2010-05-14", 
-        "reair": null, 
+        "date": "May 14, 2010", 
         "id": 17, 
         "vid": "C2TosYbplX0", 
         "title": "Women's Fashion Magazines"
       }, 
       {
-        "date": "2010-05-21", 
-        "reair": null, 
+        "date": "May 21, 2010", 
         "id": 18, 
         "vid": "TkhpsMvcjuY", 
         "title": "Izakaya"
       }, 
       {
-        "date": "2010-05-28", 
-        "reair": null, 
+        "date": "May 28, 2010", 
         "id": 19, 
         "vid": null, 
         "title": "Apartments and Condominiums"
       }, 
       {
-        "date": "2010-06-11", 
-        "reair": null, 
+        "date": "Jun 11, 2010", 
         "id": 20, 
         "vid": "9qMWFhMi4Jk", 
         "title": "Towns and Neighbourhoods"
       }, 
       {
-        "date": "2010-06-18", 
-        "reair": null, 
+        "date": "Jun 18, 2010", 
         "id": 21, 
         "vid": "WXiIwvWniN0", 
         "title": "Tempura"
       }, 
       {
-        "date": "2010-06-25", 
-        "reair": null, 
+        "date": "Jun 25, 2010", 
         "id": 22, 
         "vid": "lU1kGrqPVM4", 
         "title": "Subways"
       }, 
       {
-        "date": "2010-07-02", 
-        "reair": null, 
+        "date": "Jul 2, 2010", 
         "id": 23, 
         "vid": "4BO2WytegPs", 
         "title": "Hairstyles"
       }, 
       {
-        "date": "2010-07-09", 
-        "reair": null, 
+        "date": "Jul 9, 2010", 
         "id": 24, 
         "vid": "UkRZ88EjbG0", 
         "title": "Home Appliances"
       }, 
       {
-        "date": "2010-07-16", 
-        "reair": null, 
+        "date": "Jul 16, 2010", 
         "id": 25, 
         "vid": "LpXGjn_r97Q", 
         "title": "Roof Tiles"
       }, 
       {
-        "date": "2010-07-23", 
-        "reair": null, 
+        "date": "Jul 23, 2010", 
         "id": 26, 
         "vid": "yCtcqX1i-Gw", 
         "title": "Miniaturization"
       }, 
       {
-        "date": "2010-08-13", 
-        "reair": null, 
+        "date": "Aug 13, 2010", 
         "id": 27, 
         "vid": null, 
         "title": "Silk"
       }, 
       {
-        "date": "2010-08-20", 
-        "reair": null, 
+        "date": "Aug 20, 2010", 
         "id": 28, 
         "vid": "Y_VKQpMtFqY", 
         "title": "Soybeans"
       }, 
       {
-        "date": "2010-08-25", 
-        "reair": null, 
+        "date": "Aug 25, 2010", 
         "id": 29, 
         "vid": null, 
         "title": "Curry"
       }, 
       {
-        "date": "2010-09-03", 
-        "reair": null, 
+        "date": "Sep 3, 2010", 
         "id": 30, 
         "vid": "sw9S_Ykym88", 
         "title": "Dams"
       }, 
       {
-        "date": "2010-09-10", 
-        "reair": null, 
+        "date": "Sep 10, 2010", 
         "id": 31, 
         "vid": null, 
         "title": "Hotels"
       }, 
       {
-        "date": "2010-09-17", 
-        "reair": null, 
+        "date": "Sep 17, 2010", 
         "id": 32, 
         "vid": "EVeeRudKb10", 
         "title": "Radio Calisthenics"
       }, 
       {
-        "date": "2010-09-24", 
-        "reair": null, 
+        "date": "Sep 24, 2010", 
         "id": 33, 
         "vid": "l25iRW_-4vI", 
         "title": "Ekiben"
       }, 
       {
-        "date": "2010-10-08", 
-        "reair": null, 
+        "date": "Oct 8, 2010", 
         "id": 34, 
         "vid": "4KonIf3YMRg", 
         "title": "Bridges"
       }, 
       {
-        "date": "2010-10-15", 
-        "reair": null, 
+        "date": "Oct 15, 2010", 
         "id": 35, 
         "vid": "-_81DThgbdc", 
         "title": "Earthquakes"
       }, 
       {
-        "date": "2010-10-22", 
-        "reair": null, 
+        "date": "Oct 22, 2010", 
         "id": 36, 
         "vid": "Q85nQsOPWws", 
         "title": "Chrysanthemums"
       }, 
       {
-        "date": "2010-11-04", 
-        "reair": null, 
+        "date": "Nov 4, 2010", 
         "id": 37, 
         "vid": null, 
         "title": "Cameras"
       }, 
       {
-        "date": "2010-11-11", 
-        "reair": null, 
+        "date": "Nov 11, 2010", 
         "id": 38, 
         "vid": "yEIs9BcT18A", 
         "title": "Hiragana"
       }, 
       {
-        "date": "2010-11-18", 
-        "reair": null, 
+        "date": "Nov 18, 2010", 
         "id": 39, 
         "vid": null, 
         "title": "Udon"
       }, 
       {
-        "date": "2010-11-25", 
-        "reair": null, 
+        "date": "Nov 25, 2010", 
         "id": 40, 
         "vid": "FmBlwkZwDXw", 
         "title": "Money"
       }, 
       {
-        "date": "2010-12-02", 
-        "reair": null, 
+        "date": "Dec 2, 2010", 
         "id": 41, 
         "vid": "pxIdGDszOBY", 
         "title": "Nishikigoi"
       }, 
       {
-        "date": "2010-12-09", 
-        "reair": null, 
+        "date": "Dec 9, 2010", 
         "id": 42, 
         "vid": "ljBx4Y1ovHk", 
         "title": "Volcanoes"
       }, 
       {
-        "date": "2010-12-16", 
-        "reair": null, 
+        "date": "Dec 16, 2010", 
         "id": 43, 
         "vid": null, 
         "title": "Firefighting"
@@ -2726,288 +2344,247 @@
   {
     "episodes": [
       {
-        "date": "2009-01-19", 
-        "reair": null, 
+        "date": "Jan 19, 2009", 
         "id": 1, 
         "vid": null, 
         "title": "Nishijin-ori"
       }, 
       {
-        "date": "2009-01-26", 
-        "reair": null, 
+        "date": "Jan 26, 2009", 
         "id": 2, 
         "vid": null, 
         "title": "Kyoto Lacquerware"
       }, 
       {
-        "date": "2009-02-02", 
-        "reair": null, 
+        "date": "Feb 2, 2009", 
         "id": 3, 
         "vid": "mHS9F272EX0", 
         "title": "Sake"
       }, 
       {
-        "date": "2009-02-09", 
-        "reair": null, 
+        "date": "Feb 9, 2009", 
         "id": 4, 
         "vid": "DQiOGHyq6qk", 
         "title": "Katsura Rikyu"
       }, 
       {
-        "date": "2009-02-16", 
-        "reair": null, 
+        "date": "Feb 16, 2009", 
         "id": 5, 
         "vid": null, 
         "title": "Bonsai"
       }, 
       {
-        "date": "2009-02-23", 
-        "reair": null, 
+        "date": "Feb 23, 2009", 
         "id": 6, 
         "vid": "kQR2b8S4McU", 
         "title": "The Four Season"
       }, 
       {
-        "date": "2009-03-02", 
-        "reair": null, 
+        "date": "Mar 2, 2009", 
         "id": 7, 
         "vid": null, 
         "title": "Hina Dolls"
       }, 
       {
-        "date": "2009-03-09", 
-        "reair": null, 
+        "date": "Mar 9, 2009", 
         "id": 8, 
         "vid": "ffXeycV1LPI", 
         "title": "Nagasaki"
       }, 
       {
-        "date": "2009-03-16", 
-        "reair": null, 
+        "date": "Mar 16, 2009", 
         "id": 9, 
         "vid": null, 
         "title": "Five-Story Pagodas"
       }, 
       {
-        "date": "2009-03-23", 
-        "reair": null, 
+        "date": "Mar 23, 2009", 
         "id": 10, 
         "vid": "HwX5AkeXeX0", 
         "title": "Cherry Blossoms"
       }, 
       {
-        "date": "2009-04-03", 
-        "reair": null, 
+        "date": "Apr 3, 2009", 
         "id": 11, 
         "vid": "t1SwTO3XMcU", 
         "title": "Chopsticks"
       }, 
       {
-        "date": "2009-04-10", 
-        "reair": null, 
+        "date": "Apr 10, 2009", 
         "id": 12, 
         "vid": null, 
         "title": "Aizome"
       }, 
       {
-        "date": "2009-04-17", 
-        "reair": null, 
+        "date": "Apr 17, 2009", 
         "id": 13, 
         "vid": null, 
         "title": "Bunraku"
       }, 
       {
-        "date": "2009-04-24", 
-        "reair": null, 
+        "date": "Apr 24, 2009", 
         "id": 14, 
         "vid": "fRU0SY32urE", 
         "title": "Kiriko Cut Glass"
       }, 
       {
-        "date": "2009-05-08", 
-        "reair": null, 
+        "date": "May 8, 2009", 
         "id": 15, 
         "vid": "Uq1HY-ZR-eo", 
         "title": "Traditional Folk Houses"
       }, 
       {
-        "date": "2009-05-15", 
-        "reair": null, 
+        "date": "May 15, 2009", 
         "id": 16, 
         "vid": null, 
         "title": "Tea Ceremony"
       }, 
       {
-        "date": "2009-05-22", 
-        "reair": null, 
+        "date": "May 22, 2009", 
         "id": 17, 
         "vid": "DBVaGoFywA8", 
         "title": "Soba"
       }, 
       {
-        "date": "2009-05-29", 
-        "reair": null, 
+        "date": "May 29, 2009", 
         "id": 18, 
         "vid": "qI00kkijYOU", 
         "title": "Origami"
       }, 
       {
-        "date": "2009-06-05", 
-        "reair": null, 
+        "date": "Jun 5, 2009", 
         "id": 19, 
         "vid": "lExYS21PaBw", 
         "title": "Imari Porcelain"
       }, 
       {
-        "date": "2009-06-19", 
-        "reair": null, 
+        "date": "Jun 19, 2009", 
         "id": 20, 
         "vid": null, 
         "title": "Folding Fan"
       }, 
       {
-        "date": "2009-07-10", 
-        "reair": null, 
+        "date": "Jul 10, 2009", 
         "id": 21, 
         "vid": "_8WVT3gmUOQ", 
         "title": "Kaiseki Cuisine"
       }, 
       {
-        "date": "2009-07-17", 
-        "reair": null, 
+        "date": "Jul 17, 2009", 
         "id": 22, 
         "vid": "WzAz1wEHiCI", 
         "title": "The Sounds of Japan"
       }, 
       {
-        "date": "2009-07-24", 
-        "reair": null, 
+        "date": "Jul 24, 2009", 
         "id": 23, 
         "vid": "716g9h5Ng-E", 
         "title": "Masks"
       }, 
       {
-        "date": "2009-07-31", 
-        "reair": null, 
+        "date": "Jul 31, 2009", 
         "id": 24, 
         "vid": "joMHGEEkCwU", 
         "title": "Satoyama"
       }, 
       {
-        "date": "2009-08-29", 
-        "reair": null, 
+        "date": "Aug 29, 2009", 
         "id": 25, 
         "vid": "Y_jBF0SGh7w", 
         "title": "Kendo"
       }, 
       {
-        "date": "2009-09-04", 
-        "reair": null, 
+        "date": "Sep 4, 2009", 
         "id": 26, 
         "vid": "KRuPboaQEF8", 
         "title": "The Fragrances of Japan"
       }, 
       {
-        "date": "2009-09-11", 
-        "reair": null, 
+        "date": "Sep 11, 2009", 
         "id": 27, 
         "vid": "39gZ9vW445Q", 
         "title": "Spinning Tops"
       }, 
       {
-        "date": "2009-09-18", 
-        "reair": null, 
+        "date": "Sep 18, 2009", 
         "id": 28, 
         "vid": "P-Zcxa2l4XU", 
         "title": "Rock and Stone"
       }, 
       {
-        "date": "2009-09-25", 
-        "reair": null, 
+        "date": "Sep 25, 2009", 
         "id": 29, 
         "vid": "LsWtFbT2FuI", 
         "title": "Ink Brushes"
       }, 
       {
-        "date": "2009-10-02", 
-        "reair": null, 
+        "date": "Oct 2, 2009", 
         "id": 30, 
         "vid": "JgM798L02KA", 
         "title": "Tsukemono Pickles"
       }, 
       {
-        "date": "2009-10-09", 
-        "reair": null, 
+        "date": "Oct 9, 2009", 
         "id": 31, 
         "vid": "zxMNWH9fDuc", 
         "title": "Dogs"
       }, 
       {
-        "date": "2009-10-16", 
-        "reair": null, 
+        "date": "Oct 16, 2009", 
         "id": 32, 
         "vid": null, 
         "title": "Ramen"
       }, 
       {
-        "date": "2009-10-23", 
-        "reair": null, 
+        "date": "Oct 23, 2009", 
         "id": 33, 
         "vid": null, 
         "title": "Rice"
       }, 
       {
-        "date": "2009-10-30", 
-        "reair": null, 
+        "date": "Oct 30, 2009", 
         "id": 34, 
         "vid": "nccRTm6hnug", 
         "title": "Shinto Shrine"
       }, 
       {
-        "date": "2009-11-06", 
-        "reair": null, 
+        "date": "Nov 6, 2009", 
         "id": 35, 
         "vid": "nLKRzE2-lF4", 
         "title": "Festivals"
       }, 
       {
-        "date": "2009-11-13", 
-        "reair": null, 
+        "date": "Nov 13, 2009", 
         "id": 36, 
         "vid": "oSFV-kbOv38", 
         "title": "Shinkansen"
       }, 
       {
-        "date": "2009-11-20", 
-        "reair": null, 
+        "date": "Nov 20, 2009", 
         "id": 37, 
         "vid": null, 
         "title": "Gagaku"
       }, 
       {
-        "date": "2009-11-27", 
-        "reair": null, 
+        "date": "Nov 27, 2009", 
         "id": 38, 
         "vid": "tFl9duhZQRk", 
         "title": "Marriage"
       }, 
       {
-        "date": "2009-12-04", 
-        "reair": null, 
+        "date": "Dec 4, 2009", 
         "id": 39, 
         "vid": "ttgBwXgEQmQ", 
         "title": "Shogi"
       }, 
       {
-        "date": "2009-12-11", 
-        "reair": null, 
+        "date": "Dec 11, 2009", 
         "id": 40, 
         "vid": "7F_-wEN7f6U", 
         "title": "Nabe Cuisine"
       }, 
       {
-        "date": "2009-12-18", 
-        "reair": null, 
+        "date": "Dec 18, 2009", 
         "id": 41, 
         "vid": "4w2pDyHhfCw", 
         "title": "Sword"
@@ -3018,232 +2595,199 @@
   {
     "episodes": [
       {
-        "date": "2008-04-14", 
-        "reair": null, 
+        "date": "Apr 14, 2008", 
         "id": 1, 
         "vid": "Ts1tjZ2SK7U", 
         "title": "Bento"
       }, 
       {
-        "date": "2008-04-21", 
-        "reair": null, 
+        "date": "Apr 21, 2008", 
         "id": 2, 
         "vid": "0RjBGpaLLJY", 
         "title": "Miyazawa Kenji"
       }, 
       {
-        "date": "2008-04-28", 
-        "reair": null, 
+        "date": "Apr 28, 2008", 
         "id": 3, 
         "vid": "9UdigpVGHt8", 
         "title": "Lacquerware"
       }, 
       {
-        "date": "2008-05-05", 
-        "reair": null, 
+        "date": "May 5, 2008", 
         "id": 4, 
         "vid": null, 
         "title": "Rakugo"
       }, 
       {
-        "date": "2008-05-12", 
-        "reair": null, 
+        "date": "May 12, 2008", 
         "id": 5, 
         "vid": "fVa-b-gExeU", 
         "title": "Tsukiji Market"
       }, 
       {
-        "date": "2008-05-19", 
-        "reair": null, 
+        "date": "May 19, 2008", 
         "id": 6, 
         "vid": "6iDk7UfeFrQ", 
         "title": "Yoshoku"
       }, 
       {
-        "date": "2008-05-26", 
-        "reair": null, 
+        "date": "May 26, 2008", 
         "id": 7, 
         "vid": "NZBbatRRXHU", 
         "title": "Kyudo"
       }, 
       {
-        "date": "2008-06-02", 
-        "reair": null, 
+        "date": "Jun 2, 2008", 
         "id": 8, 
         "vid": null, 
         "title": "Tea Ceremony Architecture"
       }, 
       {
-        "date": "2008-06-09", 
-        "reair": null, 
+        "date": "Jun 9, 2008", 
         "id": 9, 
         "vid": "J7YNLYqCuBM", 
         "title": "Dagashiya (candy shops)"
       }, 
       {
-        "date": "2008-06-16", 
-        "reair": null, 
+        "date": "Jun 16, 2008", 
         "id": 10, 
         "vid": "z5piYJ-3PQs", 
         "title": "Nihon Buyo"
       }, 
       {
-        "date": "2008-06-23", 
-        "reair": null, 
+        "date": "Jun 23, 2008", 
         "id": 11, 
         "vid": "fzKCMkZO00U", 
         "title": "Abacus"
       }, 
       {
-        "date": "2008-06-30", 
-        "reair": null, 
+        "date": "Jun 30, 2008", 
         "id": 12, 
         "vid": "NBP-jLfVIC4", 
         "title": "Ryukyu Kimono"
       }, 
       {
-        "date": "2008-07-14", 
-        "reair": null, 
+        "date": "Jul 14, 2008", 
         "id": 13, 
         "vid": "ddB30CO8oEc", 
         "title": "Bamboo"
       }, 
       {
-        "date": "2008-07-21", 
-        "reair": null, 
+        "date": "Jul 21, 2008", 
         "id": 14, 
         "vid": "t0JRCnoFXC0", 
         "title": "Shirakawa-go"
       }, 
       {
-        "date": "2008-07-28", 
-        "reair": null, 
+        "date": "Jul 28, 2008", 
         "id": 15, 
         "vid": "IWIx6BT1nbc", 
         "title": "Fireworks"
       }, 
       {
-        "date": "2008-08-17", 
-        "reair": null, 
+        "date": "Aug 17, 2008", 
         "id": 16, 
         "vid": "iCh1ky4mroQ", 
         "title": "Hanging Scrolls"
       }, 
       {
-        "date": "2008-08-24", 
-        "reair": null, 
+        "date": "Aug 24, 2008", 
         "id": 17, 
         "vid": "cRBiECSujnU", 
         "title": "The Tale of Genji: Part 1"
       }, 
       {
-        "date": "2008-08-31", 
-        "reair": null, 
+        "date": "Aug 31, 2008", 
         "id": 18, 
         "vid": "GqGndBDt1sI", 
         "title": "The Tale of Genji: Part 2"
       }, 
       {
-        "date": "2008-09-07", 
-        "reair": null, 
+        "date": "Sep 7, 2008", 
         "id": 19, 
         "vid": "qGJz1KGDJw4", 
         "title": "Matcha"
       }, 
       {
-        "date": "2008-09-14", 
-        "reair": null, 
+        "date": "Sep 14, 2008", 
         "id": 20, 
         "vid": "HTFh2E3Y8kI", 
         "title": "Tokyo Tower"
       }, 
       {
-        "date": "2008-09-21", 
-        "reair": null, 
+        "date": "Sep 21, 2008", 
         "id": 21, 
         "vid": "2UaYoP89XD8", 
         "title": "Dashi"
       }, 
       {
-        "date": "2008-09-28", 
-        "reair": null, 
+        "date": "Sep 28, 2008", 
         "id": 22, 
         "vid": null, 
         "title": "Oribe-yaki (pottery)"
       }, 
       {
-        "date": "2008-10-05", 
-        "reair": null, 
+        "date": "Oct 5, 2008", 
         "id": 23, 
         "vid": null, 
         "title": "The Colorful World of Utagawa Hiroshige"
       }, 
       {
-        "date": "2008-10-12", 
-        "reair": null, 
+        "date": "Oct 12, 2008", 
         "id": 24, 
         "vid": null, 
         "title": "The Seven Gods of Good Fortune"
       }, 
       {
-        "date": "2008-10-19", 
-        "reair": null, 
+        "date": "Oct 19, 2008", 
         "id": 25, 
         "vid": "jtkTX4ul6-k", 
         "title": "Sushi"
       }, 
       {
-        "date": "2008-10-26", 
-        "reair": null, 
+        "date": "Oct 26, 2008", 
         "id": 26, 
         "vid": null, 
         "title": "Mikoshi (portable shrines)"
       }, 
       {
-        "date": "2008-11-02", 
-        "reair": null, 
+        "date": "Nov 2, 2008", 
         "id": 27, 
         "vid": null, 
         "title": "Yuzen Kimono"
       }, 
       {
-        "date": "2008-11-09", 
-        "reair": null, 
+        "date": "Nov 9, 2008", 
         "id": 28, 
         "vid": "fIfNibljnoI", 
         "title": "Buddhist Statues"
       }, 
       {
-        "date": "2008-11-16", 
-        "reair": null, 
+        "date": "Nov 16, 2008", 
         "id": 29, 
         "vid": null, 
         "title": "Hot Springs"
       }, 
       {
-        "date": "2008-11-23", 
-        "reair": null, 
+        "date": "Nov 23, 2008", 
         "id": 30, 
         "vid": null, 
         "title": "Fish"
       }, 
       {
-        "date": "2008-12-01", 
-        "reair": null, 
+        "date": "Dec 1, 2008", 
         "id": 31, 
         "vid": null, 
         "title": "Tatami (straw mats)"
       }, 
       {
-        "date": "2008-12-08", 
-        "reair": null, 
+        "date": "Dec 8, 2008", 
         "id": 32, 
         "vid": "F2bdqaAM9GE", 
         "title": "Castles"
       }, 
       {
-        "date": "2008-12-15", 
-        "reair": null, 
+        "date": "Dec 15, 2008", 
         "id": 33, 
         "vid": null, 
         "title": "Miso"

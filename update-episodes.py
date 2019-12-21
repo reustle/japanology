@@ -2,6 +2,7 @@
 
 import requests, csv, pprint, json
 from operator import itemgetter
+from datetime import datetime
 
 GOOGLE_SHEETS = 'https://docs.google.com/spreadsheets/d/{0}/export?format=csv'
 SHEET_KEY = '1rjtVle08VtK7AM9GMZ1zgQpTpctw0n9mCm8VOYN-Qso'
@@ -34,9 +35,8 @@ for ep in csv_data:
     episode = {
         'id': int(ep[1]),
         'title': ep[2],
-        'date': ep[3],
+        'date': datetime.strptime(ep[3], '%Y-%m-%d').strftime('%b %-d, %Y'),
         'vid': None if (ep[4] == '') else ep[4],
-        'reair': None if (ep[5] == '') else ep[5],
     }
     
     # Add the season key if it doesn't exist
@@ -57,7 +57,7 @@ for season in episodes.keys():
 seasons_coll = sorted(seasons_coll, key=itemgetter('id'), reverse=True) 
 
 # Output the Episodes Dictionary as JSON file
-handle = open('_data/episodes.json', 'w')
+handle = open('static/episodes.json', 'w')
 handle.write(json.dumps(seasons_coll, indent=2))
 handle.close()
 

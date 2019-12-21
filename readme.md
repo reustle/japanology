@@ -7,12 +7,7 @@ If you would like to report a broken video or add missing video links, leave a c
 ### Contributing Code
 If you would like to help improve the website, check out the list of feature requests on [this page](https://github.com/reustle/japanology/issues).
 
-To run this project locally, install [Jekyll](https://jekyllrb.com/) and run `jekyll serve` in the project directory. Running the python code is not required.
-
-### Tasks
-- Remove bootstrap cdn font-awesome dependency
-- Remove tether dependcy
-- Upgrade bootstrap
+To run this project locally, you can run something like `python3 -m http.server` to host the index.html file on port 8000.
 
 ### Contributors
 - Allen Wurtzinger
