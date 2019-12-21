@@ -12,7 +12,7 @@ $('tr[data-id]').each(function(){
 
 // Hide other season tables
 $('table[data-season]').hide();
-$('table[data-season=2017]').show();
+$('table[data-season=2019]').show();
 $('.nav-link').first().addClass('active');
 
 // Handle season tab click
