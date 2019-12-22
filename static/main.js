@@ -121,7 +121,7 @@ const groupBySeason = (chapters, chapter) => {
   // First make sure it's defined
   chapters[chapter.season] = chapters[chapter.season] || [];
 
-  // Add the chapter to the episode listt
+  // Add the chapter to the episode list
   chapters[chapter.season].push({
     id: Number(chapter.id),
     title: chapter.title,
