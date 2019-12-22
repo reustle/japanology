@@ -1,7 +1,7 @@
 "use strict";
 
 // Google Sheet ID
-const SHEET = "17rkB73L_tcfhr4RugSekj07P8hVenTJu3b9Co_hPgQI";
+const SHEET = "1rjtVle08VtK7AM9GMZ1zgQpTpctw0n9mCm8VOYN-Qso";
 
 const YT_VID = 'https://www.youtube.com/watch?v='
 const YT_SEARCH = 'https://www.youtube.com/results?search_query=Japanology+'
