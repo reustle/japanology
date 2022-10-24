@@ -1,6 +1,21 @@
+import re
+import urllib
 import pandas as pd
 from imdb import Cinemagoer
 from imdb.helpers import sortedSeasons, sortedEpisodes
+
+
+def grab_youtube_id(title):
+    """
+    Given episode title, searches the keywords: "Japanology {title}"
+    on YouTube.com and returns the first result's video id.
+    """
+    search = urllib.parse.quote(f"Japanology {title}")
+    url = f"https://www.youtube.com/results?search_query={search}"
+    html = urllib.request.urlopen(url)
+    video_id = re.findall(r"watch\?v=(\S{11})", html.read().decode())[0]
+
+    return video_id
 
 
 def get_episode_titles(series, season=1):
@@ -28,6 +43,7 @@ def get_series_df(id, series_name):
 
     df = pd.DataFrame(eps, columns=["title", "season"])
     df["series"] = series_name
+    df["vid"] = df["title"].apply(grab_youtube_id)
 
     return df
 
@@ -38,3 +54,7 @@ def get_all_eps():
     df = pd.concat([df_plus, df_begin])
 
     return df
+
+
+def make_markdown_page():
+    df = get_all_eps()
