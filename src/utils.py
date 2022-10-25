@@ -22,9 +22,9 @@ def grab_youtube_id(title):
 
 
 def get_iframe(vid):
-    prefix = '<iframe width="420" height="315" '
+    prefix = '<iframe width="420" height="315" src='
+    url = f'"https://www.youtube.com/embed/{vid}"'
     suffix = "> </iframe>"
-    url = f'="https://www.youtube.com/embed/{vid}"'
     return prefix + url + suffix
 
 
@@ -32,9 +32,12 @@ def make_markdown_page(df):
     header = """# Japanology Episodes
 """
     df["vid"] = df["vid"].apply(get_iframe)
-    md = df.to_markdown(index=False)
+    md = df.to_markdown(
+        index=False,
+        tablefmt="github",
+    )
     md = header + md
-    with open("episodes.md", "w") as f:
+    with open("static/episodes.md", "w", encoding="utf-8") as f:
         f.write(md)
 
 

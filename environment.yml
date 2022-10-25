@@ -9,10 +9,10 @@ dependencies:
 
   # Data
   - pandas
+  - tabulate
 
   # pip requirements for git hosted package
   - pip:
       - wheel
       - buildtools
       - git+https://github.com/cinemagoer/cinemagoer
-      - alive_progress
