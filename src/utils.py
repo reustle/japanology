@@ -56,5 +56,18 @@ def get_all_eps():
     return df
 
 
+def get_iframe(vid):
+    return f'<iframe width="420" height="315" src="https://www.youtube.com/embed/{vid}"> </iframe>'
+
+
 def make_markdown_page():
     df = get_all_eps()
+    page = """
+# Japanology Episodes
+Season | Title | Video
+--- | --- | ---
+"""
+    for _, row in df.iterrows():
+        page += f"{row['season']} | {row['title']} | {get_iframe(row['vid'])}"
+    with open("episodes.md", "w") as f:
+        f.write(page)
