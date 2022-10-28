@@ -16,3 +16,4 @@ dependencies:
       - wheel
       - buildtools
       - git+https://github.com/cinemagoer/cinemagoer
+      - markdown
