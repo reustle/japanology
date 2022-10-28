@@ -29,14 +29,26 @@ def get_iframe(vid):
 
 
 def make_markdown_page(df):
-    header = """# Japanology Episodes
+    md = """# Japanology Episodes
+
+- [Weekend Japanology](#weekend-japanology)
+- [Begin Japanology](#begin-japanology)
+- [Japanology Plus](#japanology-plus)
+
 """
     df["vid"] = df["vid"].apply(get_iframe)
-    md = df.to_markdown(
-        index=False,
-        tablefmt="github",
-    )
-    md = header + md
+
+    for series in ["Weekend Japanology", "Begin Japanology", "Japanology Plus"]:
+        md += f"""
+
+## {series}
+
+"""
+        md += df[df["series"] == series].to_markdown(
+            index=False,
+            tablefmt="github",
+        )
+
     with open("static/episodes.md", "w", encoding="utf-8") as f:
         f.write(md)
 
