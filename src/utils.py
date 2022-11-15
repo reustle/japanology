@@ -69,7 +69,8 @@ Weekend Japanology               | Begin Japanology               | Japanology P
             page.parent.mkdir(exist_ok=True, parents=True)
 
             with open(page, "w+", encoding="utf-8") as f:
-                html = markdown.markdown(header + series_header + season_header + md)
+                page = header + series_header + season_header + md
+                html = markdown.markdown(page, extensions=["tables"])
                 f.write(html)
 
 
